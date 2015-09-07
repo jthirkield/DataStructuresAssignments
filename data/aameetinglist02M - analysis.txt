@@ -1,0 +1,164 @@
+FOUND 13 UNIQUE DATA FIELDS IN THE FOLLOWING ORDER OF APPEARANCE:
+
+locationName | meetingName | addressStreet | addressDetails | zipcode | meetingDetails | wheelchair | dayOfWeek | startTime | endTime | meetingType | specialInterest | meetingID
+
+BREAKDOWN OF EACH FIELDS AND THE CORRELATING HTML MARK UPS
+
+locationName | meetingName | addressStreet | addressDetails | zipcode | meetingDetails | wheelchair
+
+preceeding html/cell:   <td style="border-bottom:1px solid #e3e3e3; width:260px" valign="top">
+locationName:      		<h4 style="margin:0;padding:0;">St. John's Lutheran Church</h4><br />
+meetingName:			<b>TEN PLUS - </b><br />
+addressStreet:			81 Christopher Street, 
+addressDetails &
+zipCode:				<br />enter at 83, basement 10014
+						<br />
+						<br />
+                        
+                        <div class="detailsBox"> 
+meetingDetails:    		The speaker will have 10+ years of sobriety. All welcome. <br />Please ring Meeting Bell only 
+                        </div>
+                        
+						<span style="color:darkblue; font-size:10pt;">
+wheelchair:             <img src="../images/wheelchair.jpg" alt="Wheelchair Access" width="20" vspace="5" hspace="10" align="absmiddle"/>Wheelchair access
+                        </span>
+
+
+dayOfWeek | startTime | endTime | meetingType | specialInterest
+
+preceeding html cell:  	<td style="border-bottom:1px solid #e3e3e3;width:350px;" valign="top">
+                   	 	
+			html on one line:  <b>Sundays From</b>  11:00 AM <b>to</b> 12:15 PM <br /><b>Meeting Type</b> C = Closed Discussion meeting <br /><b>Special Interest</b> Eleventh Step
+ 			##parse this line for all 5 variables
+
+meetingID	
+preceeding html/cell	 <td style="border-bottom:1px solid #dedede; width:90px; ">
+             meetingID:  <a href="getdirections.cfm?meetingid=1542" class="GetDirections">Get Directions</a>
+
+
+#######################################################
+SPECIFIC OPTIONS FOR SPECIAL INTEREST AND MEETING TYPE
+#######################################################
+
+
+Meeting Type
+                    <option >B = Beginners meeting</option>
+		            <option >BB = Big Book meeting</option>
+		            <option >C = Closed Discussion meeting</option>
+		            <option >S = Step meeting</option>
+		            <option >T = Tradition meeting</option>
+		            <option >O = Open meeting</option>
+		            <option >OD = Open Discussion meeting</option>
+		            
+Special Interest</option>
+					
+					<option >AA Grapevine Literature</option>
+					
+					<option >AA Literature</option>
+					
+					<option >AA Meetings on the Beach</option>
+					
+					<option >Agnostic</option>
+					
+					<option >Anniversary Meeting</option>
+					
+					<option >As Bill Sees It</option>
+					
+					<option >Beginners Workshop</option>
+					
+					<option >Big Book Topic</option>
+					
+					<option >Big Book Workshop</option>
+					
+					<option >Came To Believe</option>
+					
+					<option >Children Welcome</option>
+					
+					<option >Daily Reflections</option>
+					
+					<option >Eleventh Step</option>
+					
+					<option >Eleventh Step Meditation</option>
+					
+					<option >First Step Forum</option>
+					
+					<option >First Step Workshop</option>
+					
+					<option >Fourth Step Workshop</option>
+					
+					<option >Gay Men</option>
+					
+					<option >Gay, Lesbian and Bisexual</option>
+					
+					<option >H.I.V Positive</option>
+					
+					<option >Interpreted for the Deaf</option>
+					
+					<option >Jones Beach Meetings- Nassau County</option>
+					
+					<option >Korean Speaking</option>
+					
+					<option >Lesbian</option>
+					
+					<option >Living Sober</option>
+					
+					<option >Long-Term Sobriety</option>
+					
+					<option >Meditation</option>
+					
+					<option >Meditation at Meeting</option>
+					
+					<option >Men</option>
+					
+					<option >Mental Health Issues in Sobriety</option>
+					
+					<option >No Prayers at Meeting</option>
+					
+					<option >On-line A.A. Meetings</option>
+					
+					<option >Polish Speaking</option>
+					
+					<option >Portuguese Speaking</option>
+					
+					<option >Promises</option>
+					
+					<option >Rotating Step</option>
+					
+					<option >Round-Robin Meeting Format</option>
+					
+					<option >Russian Speaking </option>
+					
+					<option >Second Step</option>
+					
+					<option >Seniors in Sobriety</option>
+					
+					<option >Slogans</option>
+					
+					<option >Spanish Speaking</option>
+					
+					<option >Special Purpose Groups</option>
+					
+					<option >Spiritual Workshop</option>
+					
+					<option >Sponsorship Workshop</option>
+					
+					<option >Steps 1-2-3</option>
+					
+					<option >Third Step</option>
+					
+					<option >Topic</option>
+					
+					<option >Twelve Steps</option>
+					
+					<option >Twelve Traditions</option>
+					
+					<option >Ukrainian Speaking</option>
+					
+					<option >Under Six Months Sober</option>
+					
+					<option >Wheel Chair Accessible</option>
+					
+					<option >Women</option>
+										
+					<option >Young People</option>
+					
