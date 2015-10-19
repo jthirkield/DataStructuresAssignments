@@ -1,7 +1,7 @@
 
 var fs = require('fs');
 //get and parse the JSON file from the assignment 3
-var fileContent = fs.readFileSync('/home/ubuntu/workspace/data/aameetingsMapArray.txt');
+var fileContent = fs.readFileSync('/home/ubuntu/workspace/data/aameetingsNewArray.txt');
 var meetingsData = JSON.parse(fileContent);
 
 //set up the url to the database

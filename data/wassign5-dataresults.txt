@@ -1,0 +1,316 @@
+******************
+FORMATTED RESULTS
+******************
+LOWER EAST SIDE
+Day: Tuesdays
+Start Time: 7:00 PM
+End Time: 8:00 PM
+Location: Church of Saint Theresa Rectory
+141 Henry Street
+1st Floor
+Betw Henry &amp; Rutgers Streets
+Additional Info: 
+Geo Info: Lat=40.7134775 Long=-73.9906663
+******************
+GREENWICH VILLAGE
+Day: Tuesdays
+Start Time: 7:15 PM
+End Time: 8:15 PM
+Location: St. Luke's Episcopal School
+487 Hudson Street
+Basement
+South of Christopher Street - behind church
+Additional Info: Mon.Step=Rotates Steps 1,2&3, Fri.= T. Last Friday. Parents with children are welcome.
+Geo Info: Lat=40.73261979999999 Long=-74.0068029
+******************
+GRUPO CENTRAL
+Day: Tuesdays
+Start Time: 7:30 PM
+End Time: 8:30 PM
+Location: St. Augustine's Church
+292 Henry Street
+Basement
+A la isquierda de la iglesia
+Additional Info: Spanish speaking meetings.
+Geo Info: Lat=40.71371430000001 Long=-73.983033
+******************
+MIDNITE
+Day: Tuesdays
+Start Time: 8:00 PM
+End Time: 9:15 PM
+Location: 
+220 West Houston Street
+2nd Floor
+Betw 6th Avenue &amp; Varick Street
+Meeting Type: C = Closed Discussion meeting
+SpecialInterest: Women
+Additional Info: Sun.12:30=Meditation, 2am Meetings=Pitch meeting with candlelight. Mon.8pm=Topic, Tues.10pm=T last Tues., Thu.10pm=Problems in Sobriety Sun.8pm=Bus.Meeting last Sun.,Sat.10pm=Anniv.Last
+Geo Info: Lat=40.72871 Long=-74.004576
+******************
+TEN PLUS
+Day: Tuesdays
+Start Time: 8:00 PM
+End Time: 9:00 PM
+Location: St. John's Lutheran Church
+81 Christopher Street
+
+enter at 83, basement
+Additional Info: The speaker will have 10+ years of sobriety. All welcome. Please ring Meeting Bell only
+Geo Info: Lat=40.7336373 Long=-74.0036221
+******************
+PERRY STREET WORKSHOP (I)
+Day: Tuesdays
+Start Time: 8:30 PM
+End Time: 9:30 PM
+Location: 
+50 Perry Street
+Ground Floor
+Betw. 7th Avenue South &amp; West 4th Street
+Additional Info: No 8:30 or 10:15 1st Wed of month due to Bus. meeting Wed.10:15pm=No BB 1st Wed.
+Geo Info: Lat=40.7355145 Long=-74.0031001
+******************
+MIDNITE
+Day: Tuesdays
+Start Time: 10:00 PM
+End Time: 11:15 PM
+Location: 
+220 West Houston Street
+2nd Floor
+Betw 6th Avenue &amp; Varick Street
+Additional Info: Sun.12:30=Meditation, 2am Meetings=Pitch meeting with candlelight. Mon.8pm=Topic, Tues.10pm=T last Tues., Thu.10pm=Problems in Sobriety Sun.8pm=Bus.Meeting last Sun.,Sat.10pm=Anniv.Last
+Geo Info: Lat=40.72871 Long=-74.004576
+******************
+PERRY STREET WORKSHOP (I)
+Day: Tuesdays
+Start Time: 10:15 PM
+End Time: 11:15 PM
+Location: 
+50 Perry Street
+Ground Floor
+Betw. 7th Avenue South &amp; West 4th Street
+Additional Info: No 8:30 or 10:15 1st Wed of month due to Bus. meeting Wed.10:15pm=No BB 1st Wed.
+Geo Info: Lat=40.7355145 Long=-74.0031001
+******************
+MIDNITE
+Day: Wednesdays
+Start Time: 2:00 AM
+End Time: 3:15 AM
+Location: 
+220 West Houston Street
+2nd Floor
+Betw 6th Avenue &amp; Varick Street
+Additional Info: Sun.12:30=Meditation, 2am Meetings=Pitch meeting with candlelight. Mon.8pm=Topic, Tues.10pm=T last Tues., Thu.10pm=Problems in Sobriety Sun.8pm=Bus.Meeting last Sun.,Sat.10pm=Anniv.Last
+Geo Info: Lat=40.72871 Long=-74.004576
+
+THE OBJECTS RETURNED:
+[
+ {
+  "locationName": "Church of Saint Theresa Rectory",
+  "theMeeting": "LOWER EAST SIDE",
+  "AddressLine1": [
+   "141 Henry Street",
+   "1st Floor"
+  ],
+  "AddressLine2": "Betw Henry &amp; Rutgers Streets",
+  "meetingInfo": "",
+  "wheelchair": false,
+  "eachMeeting": {
+   "MeetingDay": 2,
+   "startHour": 19,
+   "startMinute": 0,
+   "endHour": 20,
+   "endMinute": 0
+  },
+  "latLong": {
+   "lat": 40.7134775,
+   "lng": -73.9906663
+  },
+  "totalDay": 4020
+ },
+ {
+  "locationName": "St. Luke's Episcopal School",
+  "theMeeting": "GREENWICH VILLAGE",
+  "AddressLine1": [
+   "487 Hudson Street",
+   "Basement"
+  ],
+  "AddressLine2": "South of Christopher Street - behind church",
+  "meetingInfo": "Mon.Step=Rotates Steps 1,2&3, Fri.= T. Last Friday. Parents with children are welcome.",
+  "wheelchair": false,
+  "eachMeeting": {
+   "MeetingDay": 2,
+   "startHour": 19,
+   "startMinute": 15,
+   "endHour": 20,
+   "endMinute": 15
+  },
+  "latLong": {
+   "lat": 40.73261979999999,
+   "lng": -74.0068029
+  },
+  "totalDay": 4035
+ },
+ {
+  "locationName": "St. Augustine's Church",
+  "theMeeting": "GRUPO CENTRAL",
+  "AddressLine1": [
+   "292 Henry Street",
+   "Basement"
+  ],
+  "AddressLine2": "A la isquierda de la iglesia",
+  "meetingInfo": "Spanish speaking meetings.",
+  "wheelchair": true,
+  "eachMeeting": {
+   "MeetingDay": 2,
+   "startHour": 19,
+   "startMinute": 30,
+   "endHour": 20,
+   "endMinute": 30
+  },
+  "latLong": {
+   "lat": 40.71371430000001,
+   "lng": -73.983033
+  },
+  "totalDay": 4050
+ },
+ {
+  "locationName": "",
+  "theMeeting": "MIDNITE",
+  "AddressLine1": [
+   "220 West Houston Street",
+   "2nd Floor"
+  ],
+  "AddressLine2": "Betw 6th Avenue &amp; Varick Street",
+  "meetingInfo": "Sun.12:30=Meditation, 2am Meetings=Pitch meeting with candlelight. Mon.8pm=Topic, Tues.10pm=T last Tues., Thu.10pm=Problems in Sobriety Sun.8pm=Bus.Meeting last Sun.,Sat.10pm=Anniv.Last",
+  "wheelchair": false,
+  "eachMeeting": {
+   "MeetingDay": 2,
+   "startHour": 20,
+   "startMinute": 0,
+   "endHour": 21,
+   "endMinute": 15,
+   "MeetingType": "C = Closed Discussion meeting",
+   "SpecialInterest": "Women"
+  },
+  "latLong": {
+   "lat": 40.72871,
+   "lng": -74.004576
+  },
+  "totalDay": 4080
+ },
+ {
+  "locationName": "St. John's Lutheran Church",
+  "theMeeting": "TEN PLUS",
+  "AddressLine1": [
+   "81 Christopher Street",
+   ""
+  ],
+  "AddressLine2": "enter at 83, basement",
+  "meetingInfo": "The speaker will have 10+ years of sobriety. All welcome. Please ring Meeting Bell only",
+  "wheelchair": false,
+  "eachMeeting": {
+   "MeetingDay": 2,
+   "startHour": 20,
+   "startMinute": 0,
+   "endHour": 21,
+   "endMinute": 0
+  },
+  "latLong": {
+   "lat": 40.7336373,
+   "lng": -74.0036221
+  },
+  "totalDay": 4080
+ },
+ {
+  "locationName": "",
+  "theMeeting": "PERRY STREET WORKSHOP (I)",
+  "AddressLine1": [
+   "50 Perry Street",
+   "Ground Floor"
+  ],
+  "AddressLine2": "Betw. 7th Avenue South &amp; West 4th Street",
+  "meetingInfo": "No 8:30 or 10:15 1st Wed of month due to Bus. meeting Wed.10:15pm=No BB 1st Wed.",
+  "wheelchair": false,
+  "eachMeeting": {
+   "MeetingDay": 2,
+   "startHour": 20,
+   "startMinute": 30,
+   "endHour": 21,
+   "endMinute": 30
+  },
+  "latLong": {
+   "lat": 40.7355145,
+   "lng": -74.0031001
+  },
+  "totalDay": 4110
+ },
+ {
+  "locationName": "",
+  "theMeeting": "MIDNITE",
+  "AddressLine1": [
+   "220 West Houston Street",
+   "2nd Floor"
+  ],
+  "AddressLine2": "Betw 6th Avenue &amp; Varick Street",
+  "meetingInfo": "Sun.12:30=Meditation, 2am Meetings=Pitch meeting with candlelight. Mon.8pm=Topic, Tues.10pm=T last Tues., Thu.10pm=Problems in Sobriety Sun.8pm=Bus.Meeting last Sun.,Sat.10pm=Anniv.Last",
+  "wheelchair": false,
+  "eachMeeting": {
+   "MeetingDay": 2,
+   "startHour": 22,
+   "startMinute": 0,
+   "endHour": 23,
+   "endMinute": 15
+  },
+  "latLong": {
+   "lat": 40.72871,
+   "lng": -74.004576
+  },
+  "totalDay": 4200
+ },
+ {
+  "locationName": "",
+  "theMeeting": "PERRY STREET WORKSHOP (I)",
+  "AddressLine1": [
+   "50 Perry Street",
+   "Ground Floor"
+  ],
+  "AddressLine2": "Betw. 7th Avenue South &amp; West 4th Street",
+  "meetingInfo": "No 8:30 or 10:15 1st Wed of month due to Bus. meeting Wed.10:15pm=No BB 1st Wed.",
+  "wheelchair": false,
+  "eachMeeting": {
+   "MeetingDay": 2,
+   "startHour": 22,
+   "startMinute": 15,
+   "endHour": 23,
+   "endMinute": 15
+  },
+  "latLong": {
+   "lat": 40.7355145,
+   "lng": -74.0031001
+  },
+  "totalDay": 4215
+ },
+ {
+  "locationName": "",
+  "theMeeting": "MIDNITE",
+  "AddressLine1": [
+   "220 West Houston Street",
+   "2nd Floor"
+  ],
+  "AddressLine2": "Betw 6th Avenue &amp; Varick Street",
+  "meetingInfo": "Sun.12:30=Meditation, 2am Meetings=Pitch meeting with candlelight. Mon.8pm=Topic, Tues.10pm=T last Tues., Thu.10pm=Problems in Sobriety Sun.8pm=Bus.Meeting last Sun.,Sat.10pm=Anniv.Last",
+  "wheelchair": false,
+  "eachMeeting": {
+   "MeetingDay": 3,
+   "startHour": 2,
+   "startMinute": 0,
+   "endHour": 3,
+   "endMinute": 15
+  },
+  "latLong": {
+   "lat": 40.72871,
+   "lng": -74.004576
+  },
+  "totalDay": 4440
+ }
+]

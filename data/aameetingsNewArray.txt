@@ -1,0 +1,1642 @@
+[
+ {
+  "locationName": "University Settlement",
+  "theMeeting": "A.A. ON THE BOWERY",
+  "AddressLine1": [
+   "273 Bowery",
+   "Downstairs"
+  ],
+  "AddressLine2": "@ Houston Street",
+  "zip": "10002",
+  "meetingInfo": "",
+  "wheelchair": true,
+  "eachMeeting": [
+   {
+    "MeetingDay": 5,
+    "startHour": 18,
+    "startMinute": 0,
+    "endHour": 19,
+    "endMinute": 0
+   }
+  ],
+  "latLong": {
+   "lat": 40.7237496,
+   "lng": -73.992395
+  }
+ },
+ {
+  "locationName": "Hazelden Center",
+  "theMeeting": "AFTERNOON DELIGHT",
+  "AddressLine1": [
+   "283 West Broadway",
+   ""
+  ],
+  "AddressLine2": "@ Canal Street",
+  "zip": "10013",
+  "meetingInfo": "Sex inventory 4th step literature meeting Meets 1st and 3rd Saturday of the month from noon-1",
+  "wheelchair": true,
+  "eachMeeting": [
+   {
+    "MeetingDay": 6,
+    "startHour": 12,
+    "startMinute": 0,
+    "endHour": 13,
+    "endMinute": 0
+   }
+  ],
+  "latLong": {
+   "lat": 40.7208017,
+   "lng": -74.0048389
+  }
+ },
+ {
+  "locationName": "Seventh Day Adventist Church",
+  "theMeeting": "ARTISTS IN RECOVERY (A.R.T.)",
+  "AddressLine1": [
+   "232 W. 11th Street",
+   ""
+  ],
+  "AddressLine2": "between Waverly and West 4th Streets",
+  "zip": "10014",
+  "meetingInfo": "",
+  "wheelchair": false,
+  "eachMeeting": [
+   {
+    "MeetingDay": 0,
+    "startHour": 18,
+    "startMinute": 30,
+    "endHour": 19,
+    "endMinute": 45
+   }
+  ],
+  "latLong": {
+   "lat": 40.736056,
+   "lng": -74.002725
+  }
+ },
+ {
+  "locationName": "",
+  "theMeeting": "BAGELS AND BIG BOOK",
+  "AddressLine1": [
+   "220 West Houston Street",
+   "2nd Floor"
+  ],
+  "AddressLine2": "Betw. 6th Avenue &amp; Varick Street",
+  "zip": "10014",
+  "meetingInfo": "NOTE: Meeting only meets on the 1st & 3rd Sunday of each month *Big Book Workshop, Meeting ends at Noon.",
+  "wheelchair": false,
+  "eachMeeting": [
+   {
+    "MeetingDay": 0,
+    "startHour": 10,
+    "startMinute": 30,
+    "endHour": 12,
+    "endMinute": 0
+   }
+  ],
+  "latLong": {
+   "lat": 40.72871,
+   "lng": -74.004576
+  }
+ },
+ {
+  "locationName": "Golden Bridge Yoga Center",
+  "theMeeting": "CENTER MEETING",
+  "AddressLine1": [
+   "253 Centre Street",
+   "3rd Floor"
+  ],
+  "AddressLine2": "@ Broome Street",
+  "zip": "10013",
+  "meetingInfo": "No shoes worn in meeting location. A short meditation opens the meeting.",
+  "wheelchair": false,
+  "eachMeeting": [
+   {
+    "MeetingDay": 1,
+    "startHour": 17,
+    "startMinute": 15,
+    "endHour": 18,
+    "endMinute": 15,
+    "MeetingType": "OD = Open Discussion meeting",
+    "SpecialInterest": "Meditation at Meeting"
+   }
+  ],
+  "latLong": {
+   "lat": 40.720642,
+   "lng": -73.99807
+  }
+ },
+ {
+  "locationName": "University Settlement (The Chinatown YMCA)",
+  "theMeeting": "EAST VILLAGE SOBER AGNOSTICS",
+  "AddressLine1": [
+   "273 Bowery",
+   ""
+  ],
+  "AddressLine2": "@ Houston Street",
+  "zip": "10002",
+  "meetingInfo": "Ask front desk for meeting location",
+  "wheelchair": true,
+  "eachMeeting": [
+   {
+    "MeetingDay": 5,
+    "startHour": 18,
+    "startMinute": 45,
+    "endHour": 20,
+    "endMinute": 0,
+    "MeetingType": "OD = Open Discussion meeting",
+    "SpecialInterest": "Agnostic"
+   }
+  ],
+  "latLong": {
+   "lat": 40.7237496,
+   "lng": -73.992395
+  }
+ },
+ {
+  "locationName": "St. Luke's Episcopal School",
+  "theMeeting": "GREENWICH VILLAGE",
+  "AddressLine1": [
+   "487 Hudson Street",
+   "Basement"
+  ],
+  "AddressLine2": "South of Christopher Street - behind church",
+  "zip": "10014",
+  "meetingInfo": "Mon.Step=Rotates Steps 1,2&3, Fri.= T. Last Friday. Parents with children are welcome.",
+  "wheelchair": false,
+  "eachMeeting": [
+   {
+    "MeetingDay": 1,
+    "startHour": 19,
+    "startMinute": 15,
+    "endHour": 20,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 2,
+    "startHour": 19,
+    "startMinute": 15,
+    "endHour": 20,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 3,
+    "startHour": 19,
+    "startMinute": 15,
+    "endHour": 20,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 5,
+    "startHour": 20,
+    "startMinute": 0,
+    "endHour": 21,
+    "endMinute": 0
+   },
+   {
+    "MeetingDay": 1,
+    "startHour": 20,
+    "startMinute": 30,
+    "endHour": 21,
+    "endMinute": 30,
+    "MeetingType": "S = Step meeting",
+    "SpecialInterest": "Steps 1-2-3"
+   }
+  ],
+  "latLong": {
+   "lat": 40.73261979999999,
+   "lng": -74.0068029
+  }
+ },
+ {
+  "locationName": "St. Augustine's Church",
+  "theMeeting": "GRUPO CENTRAL",
+  "AddressLine1": [
+   "292 Henry Street",
+   "Basement"
+  ],
+  "AddressLine2": "A la isquierda de la iglesia",
+  "zip": "10002",
+  "meetingInfo": "Spanish speaking meetings.",
+  "wheelchair": true,
+  "eachMeeting": [
+   {
+    "MeetingDay": 0,
+    "startHour": 15,
+    "startMinute": 0,
+    "endHour": 16,
+    "endMinute": 0
+   },
+   {
+    "MeetingDay": 2,
+    "startHour": 19,
+    "startMinute": 30,
+    "endHour": 20,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 5,
+    "startHour": 20,
+    "startMinute": 0,
+    "endHour": 21,
+    "endMinute": 0
+   }
+  ],
+  "latLong": {
+   "lat": 40.71371430000001,
+   "lng": -73.983033
+  }
+ },
+ {
+  "locationName": "Manhattan Church of The Seventh-day Adventist",
+  "theMeeting": "HAPPY, JOYOUS AND FREE",
+  "AddressLine1": [
+   "232 West 11th Street",
+   ""
+  ],
+  "AddressLine2": "Between Waverly Place and West 4th Street",
+  "zip": "10014",
+  "meetingInfo": "Topic Meeting for gay men approaching and over 40. All are welcome.",
+  "wheelchair": true,
+  "eachMeeting": [
+   {
+    "MeetingDay": 1,
+    "startHour": 19,
+    "startMinute": 0,
+    "endHour": 20,
+    "endMinute": 0,
+    "MeetingType": "C = Closed Discussion meeting",
+    "SpecialInterest": "Gay Men"
+   }
+  ],
+  "latLong": {
+   "lat": 40.736056,
+   "lng": -74.002725
+  }
+ },
+ {
+  "locationName": "Church of Saint Theresa Rectory",
+  "theMeeting": "LOWER EAST SIDE",
+  "AddressLine1": [
+   "141 Henry Street",
+   "1st Floor"
+  ],
+  "AddressLine2": "Betw Henry &amp; Rutgers Streets",
+  "zip": "10002",
+  "meetingInfo": "",
+  "wheelchair": false,
+  "eachMeeting": [
+   {
+    "MeetingDay": 2,
+    "startHour": 19,
+    "startMinute": 0,
+    "endHour": 20,
+    "endMinute": 0
+   }
+  ],
+  "latLong": {
+   "lat": 40.7134775,
+   "lng": -73.9906663
+  }
+ },
+ {
+  "locationName": "",
+  "theMeeting": "MIDNITE",
+  "AddressLine1": [
+   "220 West Houston Street",
+   "2nd Floor"
+  ],
+  "AddressLine2": "Betw 6th Avenue &amp; Varick Street",
+  "zip": "10014",
+  "meetingInfo": "Sun.12:30=Meditation, 2am Meetings=Pitch meeting with candlelight. Mon.8pm=Topic, Tues.10pm=T last Tues., Thu.10pm=Problems in Sobriety Sun.8pm=Bus.Meeting last Sun.,Sat.10pm=Anniv.Last",
+  "wheelchair": false,
+  "eachMeeting": [
+   {
+    "MeetingDay": 1,
+    "startHour": 12,
+    "startMinute": 0,
+    "endHour": 1,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 12,
+    "startMinute": 0,
+    "endHour": 1,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 3,
+    "startHour": 12,
+    "startMinute": 0,
+    "endHour": 1,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 2,
+    "startHour": 12,
+    "startMinute": 0,
+    "endHour": 1,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 5,
+    "startHour": 12,
+    "startMinute": 0,
+    "endHour": 1,
+    "endMinute": 15,
+    "MeetingType": "C = Closed Discussion meeting",
+    "SpecialInterest": "Promises"
+   },
+   {
+    "MeetingDay": 6,
+    "startHour": 12,
+    "startMinute": 0,
+    "endHour": 1,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 12,
+    "startMinute": 0,
+    "endHour": 1,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 2,
+    "startMinute": 0,
+    "endHour": 3,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 3,
+    "startHour": 2,
+    "startMinute": 0,
+    "endHour": 3,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 2,
+    "startHour": 2,
+    "startMinute": 0,
+    "endHour": 3,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 5,
+    "startHour": 2,
+    "startMinute": 0,
+    "endHour": 3,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 1,
+    "startHour": 2,
+    "startMinute": 0,
+    "endHour": 3,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 2,
+    "startMinute": 0,
+    "endHour": 3,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 6,
+    "startHour": 2,
+    "startMinute": 0,
+    "endHour": 3,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 1,
+    "startHour": 12,
+    "startMinute": 30,
+    "endHour": 13,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 12,
+    "startMinute": 30,
+    "endHour": 13,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 6,
+    "startHour": 12,
+    "startMinute": 30,
+    "endHour": 13,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 3,
+    "startHour": 12,
+    "startMinute": 30,
+    "endHour": 13,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 2,
+    "startHour": 12,
+    "startMinute": 30,
+    "endHour": 13,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 12,
+    "startMinute": 30,
+    "endHour": 13,
+    "endMinute": 30,
+    "MeetingType": "C = Closed Discussion meeting",
+    "SpecialInterest": "Meditation"
+   },
+   {
+    "MeetingDay": 5,
+    "startHour": 12,
+    "startMinute": 30,
+    "endHour": 13,
+    "endMinute": 30,
+    "MeetingType": "C = Closed Discussion meeting",
+    "SpecialInterest": "Topic"
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 17,
+    "startMinute": 15,
+    "endHour": 18,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 17,
+    "startMinute": 15,
+    "endHour": 18,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 3,
+    "startHour": 17,
+    "startMinute": 15,
+    "endHour": 18,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 5,
+    "startHour": 17,
+    "startMinute": 15,
+    "endHour": 18,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 2,
+    "startHour": 17,
+    "startMinute": 15,
+    "endHour": 18,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 1,
+    "startHour": 17,
+    "startMinute": 15,
+    "endHour": 18,
+    "endMinute": 15,
+    "MeetingType": "C = Closed Discussion meeting",
+    "SpecialInterest": "Living Sober"
+   },
+   {
+    "MeetingDay": 6,
+    "startHour": 18,
+    "startMinute": 30,
+    "endHour": 19,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 1,
+    "startHour": 18,
+    "startMinute": 30,
+    "endHour": 19,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 18,
+    "startMinute": 30,
+    "endHour": 19,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 18,
+    "startMinute": 30,
+    "endHour": 19,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 5,
+    "startHour": 18,
+    "startMinute": 30,
+    "endHour": 19,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 3,
+    "startHour": 18,
+    "startMinute": 30,
+    "endHour": 19,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 2,
+    "startHour": 18,
+    "startMinute": 30,
+    "endHour": 19,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 6,
+    "startHour": 20,
+    "startMinute": 0,
+    "endHour": 21,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 1,
+    "startHour": 20,
+    "startMinute": 0,
+    "endHour": 21,
+    "endMinute": 15,
+    "MeetingType": "C = Closed Discussion meeting",
+    "SpecialInterest": "Topic"
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 20,
+    "startMinute": 0,
+    "endHour": 21,
+    "endMinute": 15,
+    "MeetingType": "B = Beginners meeting",
+    "SpecialInterest": "Under Six Months Sober"
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 20,
+    "startMinute": 0,
+    "endHour": 21,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 3,
+    "startHour": 20,
+    "startMinute": 0,
+    "endHour": 21,
+    "endMinute": 15,
+    "MeetingType": "C = Closed Discussion meeting",
+    "SpecialInterest": "Men"
+   },
+   {
+    "MeetingDay": 5,
+    "startHour": 20,
+    "startMinute": 0,
+    "endHour": 21,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 2,
+    "startHour": 20,
+    "startMinute": 0,
+    "endHour": 21,
+    "endMinute": 15,
+    "MeetingType": "C = Closed Discussion meeting",
+    "SpecialInterest": "Women"
+   },
+   {
+    "MeetingDay": 2,
+    "startHour": 22,
+    "startMinute": 0,
+    "endHour": 23,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 6,
+    "startHour": 22,
+    "startMinute": 0,
+    "endHour": 23,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 1,
+    "startHour": 22,
+    "startMinute": 0,
+    "endHour": 23,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 22,
+    "startMinute": 0,
+    "endHour": 23,
+    "endMinute": 15,
+    "MeetingType": "C = Closed Discussion meeting",
+    "SpecialInterest": "Topic"
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 22,
+    "startMinute": 0,
+    "endHour": 23,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 3,
+    "startHour": 22,
+    "startMinute": 0,
+    "endHour": 23,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 5,
+    "startHour": 22,
+    "startMinute": 0,
+    "endHour": 23,
+    "endMinute": 15
+   }
+  ],
+  "latLong": {
+   "lat": 40.72871,
+   "lng": -74.004576
+  }
+ },
+ {
+  "locationName": "St. John's Lutheran Church",
+  "theMeeting": "NEW GROUP",
+  "AddressLine1": [
+   "83 Christopher Street",
+   "Red Door, Left of Church"
+  ],
+  "AddressLine2": "West of 7th Avenue, Enter Left, Red Door, Ring Buzzer",
+  "zip": "10014",
+  "meetingInfo": "Gay & Lesbian focus.  All are welcome.",
+  "wheelchair": false,
+  "eachMeeting": [
+   {
+    "MeetingDay": 0,
+    "startHour": 12,
+    "startMinute": 30,
+    "endHour": 13,
+    "endMinute": 30,
+    "MeetingType": "O = Open meeting",
+    "SpecialInterest": "Gay, Lesbian and Bisexual"
+   },
+   {
+    "MeetingDay": 3,
+    "startHour": 18,
+    "startMinute": 30,
+    "endHour": 19,
+    "endMinute": 30,
+    "MeetingType": "B = Beginners meeting",
+    "SpecialInterest": "Gay, Lesbian and Bisexual"
+   },
+   {
+    "MeetingDay": 5,
+    "startHour": 19,
+    "startMinute": 30,
+    "endHour": 20,
+    "endMinute": 30,
+    "MeetingType": "B = Beginners meeting",
+    "SpecialInterest": "Gay, Lesbian and Bisexual"
+   }
+  ],
+  "latLong": {
+   "lat": 40.7336246,
+   "lng": -74.00377379999999
+  }
+ },
+ {
+  "locationName": "",
+  "theMeeting": "PERRY STREET WORKSHOP (I)",
+  "AddressLine1": [
+   "50 Perry Street",
+   "Ground Floor"
+  ],
+  "AddressLine2": "Betw. 7th Avenue South &amp; West 4th Street",
+  "zip": "10014",
+  "meetingInfo": "No 8:30 or 10:15 1st Wed of month due to Bus. meeting Wed.10:15pm=No BB 1st Wed.",
+  "wheelchair": false,
+  "eachMeeting": [
+   {
+    "MeetingDay": 3,
+    "startHour": 7,
+    "startMinute": 30,
+    "endHour": 8,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 2,
+    "startHour": 7,
+    "startMinute": 30,
+    "endHour": 8,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 1,
+    "startHour": 7,
+    "startMinute": 30,
+    "endHour": 8,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 6,
+    "startHour": 7,
+    "startMinute": 30,
+    "endHour": 8,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 7,
+    "startMinute": 30,
+    "endHour": 8,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 5,
+    "startHour": 7,
+    "startMinute": 30,
+    "endHour": 8,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 7,
+    "startMinute": 30,
+    "endHour": 8,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 3,
+    "startHour": 9,
+    "startMinute": 0,
+    "endHour": 10,
+    "endMinute": 0
+   },
+   {
+    "MeetingDay": 2,
+    "startHour": 9,
+    "startMinute": 0,
+    "endHour": 10,
+    "endMinute": 0
+   },
+   {
+    "MeetingDay": 1,
+    "startHour": 9,
+    "startMinute": 0,
+    "endHour": 10,
+    "endMinute": 0
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 9,
+    "startMinute": 0,
+    "endHour": 10,
+    "endMinute": 0
+   },
+   {
+    "MeetingDay": 5,
+    "startHour": 9,
+    "startMinute": 0,
+    "endHour": 10,
+    "endMinute": 0
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 9,
+    "startMinute": 0,
+    "endHour": 10,
+    "endMinute": 0
+   },
+   {
+    "MeetingDay": 6,
+    "startHour": 9,
+    "startMinute": 30,
+    "endHour": 10,
+    "endMinute": 0
+   },
+   {
+    "MeetingDay": 5,
+    "startHour": 10,
+    "startMinute": 30,
+    "endHour": 11,
+    "endMinute": 30,
+    "MeetingType": "C = Closed Discussion meeting",
+    "SpecialInterest": "Women"
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 11,
+    "startMinute": 0,
+    "endHour": 12,
+    "endMinute": 0
+   },
+   {
+    "MeetingDay": 6,
+    "startHour": 12,
+    "startMinute": 0,
+    "endHour": 13,
+    "endMinute": 0
+   },
+   {
+    "MeetingDay": 5,
+    "startHour": 12,
+    "startMinute": 15,
+    "endHour": 13,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 12,
+    "startMinute": 15,
+    "endHour": 13,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 3,
+    "startHour": 12,
+    "startMinute": 15,
+    "endHour": 13,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 2,
+    "startHour": 12,
+    "startMinute": 15,
+    "endHour": 13,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 1,
+    "startHour": 12,
+    "startMinute": 15,
+    "endHour": 13,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 13,
+    "startMinute": 0,
+    "endHour": 14,
+    "endMinute": 0,
+    "MeetingType": "C = Closed Discussion meeting",
+    "SpecialInterest": "Children Welcome"
+   },
+   {
+    "MeetingDay": 5,
+    "startHour": 14,
+    "startMinute": 30,
+    "endHour": 15,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 14,
+    "startMinute": 30,
+    "endHour": 15,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 2,
+    "startHour": 14,
+    "startMinute": 30,
+    "endHour": 15,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 1,
+    "startHour": 14,
+    "startMinute": 30,
+    "endHour": 15,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 6,
+    "startHour": 14,
+    "startMinute": 30,
+    "endHour": 15,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 3,
+    "startHour": 14,
+    "startMinute": 30,
+    "endHour": 15,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 15,
+    "startMinute": 0,
+    "endHour": 16,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 6,
+    "startHour": 16,
+    "startMinute": 0,
+    "endHour": 17,
+    "endMinute": 0
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 16,
+    "startMinute": 0,
+    "endHour": 17,
+    "endMinute": 0
+   },
+   {
+    "MeetingDay": 3,
+    "startHour": 16,
+    "startMinute": 0,
+    "endHour": 17,
+    "endMinute": 0
+   },
+   {
+    "MeetingDay": 2,
+    "startHour": 16,
+    "startMinute": 0,
+    "endHour": 17,
+    "endMinute": 0
+   },
+   {
+    "MeetingDay": 1,
+    "startHour": 16,
+    "startMinute": 0,
+    "endHour": 17,
+    "endMinute": 0
+   },
+   {
+    "MeetingDay": 5,
+    "startHour": 16,
+    "startMinute": 0,
+    "endHour": 18,
+    "endMinute": 0
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 17,
+    "startMinute": 30,
+    "endHour": 18,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 6,
+    "startHour": 18,
+    "startMinute": 0,
+    "endHour": 19,
+    "endMinute": 0
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 18,
+    "startMinute": 0,
+    "endHour": 19,
+    "endMinute": 0
+   },
+   {
+    "MeetingDay": 5,
+    "startHour": 18,
+    "startMinute": 0,
+    "endHour": 19,
+    "endMinute": 0
+   },
+   {
+    "MeetingDay": 3,
+    "startHour": 18,
+    "startMinute": 0,
+    "endHour": 19,
+    "endMinute": 0
+   },
+   {
+    "MeetingDay": 2,
+    "startHour": 18,
+    "startMinute": 0,
+    "endHour": 19,
+    "endMinute": 0
+   },
+   {
+    "MeetingDay": 1,
+    "startHour": 18,
+    "startMinute": 0,
+    "endHour": 19,
+    "endMinute": 0
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 19,
+    "startMinute": 0,
+    "endHour": 20,
+    "endMinute": 0
+   },
+   {
+    "MeetingDay": 1,
+    "startHour": 20,
+    "startMinute": 30,
+    "endHour": 21,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 6,
+    "startHour": 20,
+    "startMinute": 30,
+    "endHour": 21,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 20,
+    "startMinute": 30,
+    "endHour": 21,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 20,
+    "startMinute": 30,
+    "endHour": 21,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 2,
+    "startHour": 20,
+    "startMinute": 30,
+    "endHour": 21,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 5,
+    "startHour": 20,
+    "startMinute": 30,
+    "endHour": 22,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 3,
+    "startHour": 20,
+    "startMinute": 30,
+    "endHour": 21,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 1,
+    "startHour": 22,
+    "startMinute": 15,
+    "endHour": 23,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 22,
+    "startMinute": 15,
+    "endHour": 23,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 3,
+    "startHour": 22,
+    "startMinute": 15,
+    "endHour": 23,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 2,
+    "startHour": 22,
+    "startMinute": 15,
+    "endHour": 23,
+    "endMinute": 15
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 22,
+    "startMinute": 30,
+    "endHour": 23,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 6,
+    "startHour": 23,
+    "startMinute": 0,
+    "endHour": 12,
+    "endMinute": 0
+   },
+   {
+    "MeetingDay": 5,
+    "startHour": 23,
+    "startMinute": 0,
+    "endHour": 12,
+    "endMinute": 0
+   }
+  ],
+  "latLong": {
+   "lat": 40.7355145,
+   "lng": -74.0031001
+  }
+ },
+ {
+  "locationName": "Seventh Day Adventist Church",
+  "theMeeting": "PRIMETIME NYC (I)",
+  "AddressLine1": [
+   "232 West 11th Street",
+   ""
+  ],
+  "AddressLine2": "off 7th Ave, downstairs in Junior Room",
+  "zip": "10014",
+  "meetingInfo": "",
+  "wheelchair": false,
+  "eachMeeting": [
+   {
+    "MeetingDay": 0,
+    "startHour": 18,
+    "startMinute": 30,
+    "endHour": 19,
+    "endMinute": 45
+   },
+   {
+    "MeetingDay": 2,
+    "startHour": 18,
+    "startMinute": 30,
+    "endHour": 19,
+    "endMinute": 45
+   }
+  ],
+  "latLong": {
+   "lat": 40.736056,
+   "lng": -74.002725
+  }
+ },
+ {
+  "locationName": "St. John's Episcopal Church",
+  "theMeeting": "RED DOOR",
+  "AddressLine1": [
+   "224 Waverly Place",
+   "1st floor event room"
+  ],
+  "AddressLine2": "@ 11th Street &amp; 7th Avenue South",
+  "zip": "10014",
+  "meetingInfo": "Fri.7:00pm=Promises Meeting All meetings are Gay & Lesbian focused.  All are welcome.",
+  "wheelchair": false,
+  "eachMeeting": [
+   {
+    "MeetingDay": 0,
+    "startHour": 19,
+    "startMinute": 0,
+    "endHour": 20,
+    "endMinute": 0,
+    "MeetingType": "S = Step meeting",
+    "SpecialInterest": "Gay, Lesbian and Bisexual"
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 19,
+    "startMinute": 0,
+    "endHour": 20,
+    "endMinute": 0,
+    "MeetingType": "B = Beginners meeting",
+    "SpecialInterest": "Gay, Lesbian and Bisexual"
+   },
+   {
+    "MeetingDay": 5,
+    "startHour": 19,
+    "startMinute": 0,
+    "endHour": 20,
+    "endMinute": 0,
+    "MeetingType": "OD = Open Discussion meeting",
+    "SpecialInterest": "Promises"
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 20,
+    "startMinute": 30,
+    "endHour": 21,
+    "endMinute": 30,
+    "MeetingType": "OD = Open Discussion meeting",
+    "SpecialInterest": "Gay, Lesbian and Bisexual"
+   },
+   {
+    "MeetingDay": 5,
+    "startHour": 20,
+    "startMinute": 30,
+    "endHour": 21,
+    "endMinute": 30,
+    "MeetingType": "OD = Open Discussion meeting",
+    "SpecialInterest": "Gay, Lesbian and Bisexual"
+   }
+  ],
+  "latLong": {
+   "lat": 40.7360418,
+   "lng": -74.0021409
+  }
+ },
+ {
+  "locationName": "St. Anthony's of Padua",
+  "theMeeting": "ROOM FOR IMPROVEMENT (I)",
+  "AddressLine1": [
+   "154 Sullivan Street",
+   ""
+  ],
+  "AddressLine2": "Enter on Sullivan Street",
+  "zip": "10012",
+  "meetingInfo": "Wed.=Topic, Thu.=Promises & Fri.=T Last Fri.",
+  "wheelchair": false,
+  "eachMeeting": [
+   {
+    "MeetingDay": 3,
+    "startHour": 7,
+    "startMinute": 30,
+    "endHour": 8,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 0,
+    "startHour": 7,
+    "startMinute": 30,
+    "endHour": 8,
+    "endMinute": 30,
+    "MeetingType": "C = Closed Discussion meeting",
+    "SpecialInterest": "Promises"
+   },
+   {
+    "MeetingDay": 5,
+    "startHour": 7,
+    "startMinute": 30,
+    "endHour": 8,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 1,
+    "startHour": 7,
+    "startMinute": 30,
+    "endHour": 8,
+    "endMinute": 30
+   },
+   {
+    "MeetingDay": 2,
+    "startHour": 7,
+    "startMinute": 30,
+    "endHour": 8,
+    "endMinute": 30
+   }
+  ],
+  "latLong": {
+   "lat": 40.7272453,
+   "lng": -74.001408
+  }
+ },
+ {
+  "locationName": "Chinatown YMCA",
+  "theMeeting": "ROOM FOR IMPROVEMENT (II)",
+  "AddressLine1": [
+   "273 Bowery Street",
+   ""
+  ],
+  "AddressLine2": "",
+  "zip": "10012",
+  "meetingInfo": "",
+  "wheelchair": true,
+  "eachMeeting": [
+   {
+    "MeetingDay": 0,
+    "startHour": 7,
+    "startMinute": 30,
+    "endHour": 8,
+    "endMinute": 30,
+    "SpecialInterest": "Topic"
+   },
+   {
+    "MeetingDay": 6,
+    "startHour": 7,
+    "startMinute": 30,
+    "endHour": 8,
+    "endMinute": 30,
+    "SpecialInterest": "Topic"
+   }
+  ],
+  "latLong": {
+   "lat": 40.7237496,
+   "lng": -73.992395
+  }
+ },
+ {
+  "locationName": "St. Joseph's Church",
+  "theMeeting": "SHERIDAN SQUARE FOLLIES",
+  "AddressLine1": [
+   "371 6th Avenue",
+   "Basement"
+  ],
+  "AddressLine2": "@ Corner of 6th Avenue &amp; Washington Place",
+  "zip": "10014",
+  "meetingInfo": "Gay & Lesbian Focus.  All are welcome.",
+  "wheelchair": true,
+  "eachMeeting": [
+   {
+    "MeetingDay": 6,
+    "startHour": 18,
+    "startMinute": 0,
+    "endHour": 19,
+    "endMinute": 0,
+    "MeetingType": "B = Beginners meeting",
+    "SpecialInterest": "Gay, Lesbian and Bisexual"
+   }
+  ],
+  "latLong": {
+   "lat": 40.7326105,
+   "lng": -74.0005427
+  }
+ },
+ {
+  "locationName": "St. Anthony of Padua Church",
+  "theMeeting": "SOHO (I)",
+  "AddressLine1": [
+   "155 Sullivan Street",
+   "Basement"
+  ],
+  "AddressLine2": "@ Houston Street",
+  "zip": "10012",
+  "meetingInfo": "Mon.7pm=Anniv Last Mon., Fri.6:30pm=Interpreted for Deaf and Hard of Hearing. Friday Meeting occasionally changes the location;  please call New York Inter-Group to confirm meeting location.",
+  "wheelchair": false,
+  "eachMeeting": [
+   {
+    "MeetingDay": 5,
+    "startHour": 18,
+    "startMinute": 30,
+    "endHour": 19,
+    "endMinute": 30,
+    "MeetingType": "B = Beginners meeting",
+    "SpecialInterest": "Interpreted for the Deaf"
+   },
+   {
+    "MeetingDay": 1,
+    "startHour": 19,
+    "startMinute": 0,
+    "endHour": 20,
+    "endMinute": 0
+   },
+   {
+    "MeetingDay": 5,
+    "startHour": 20,
+    "startMinute": 0,
+    "endHour": 21,
+    "endMinute": 0
+   },
+   {
+    "MeetingDay": 1,
+    "startHour": 20,
+    "startMinute": 30,
+    "endHour": 21,
+    "endMinute": 30
+   }
+  ],
+  "latLong": {
+   "lat": 40.727182,
+   "lng": -74.001238
+  }
+ },
+ {
+  "locationName": "The Bronfman Cernter @ NYU",
+  "theMeeting": "SPIRITUAL WORKSHOP",
+  "AddressLine1": [
+   "7 East 10th Strert",
+   ""
+  ],
+  "AddressLine2": "@ Houston Street",
+  "zip": "10003",
+  "meetingInfo": "Lower level",
+  "wheelchair": false,
+  "eachMeeting": [
+   {
+    "MeetingDay": 0,
+    "startHour": 11,
+    "startMinute": 0,
+    "endHour": 12,
+    "endMinute": 15,
+    "MeetingType": "C = Closed Discussion meeting",
+    "SpecialInterest": "Eleventh Step"
+   }
+  ],
+  "latLong": {
+   "lat": 40.7333067,
+   "lng": -73.9947147
+  }
+ },
+ {
+  "locationName": "Seventh Adventist Church",
+  "theMeeting": "T&A-TOGETHERNESS & ACTION",
+  "AddressLine1": [
+   "232 West 11th Street",
+   "Basement"
+  ],
+  "AddressLine2": "Waverly Place @ 7th Avenue South",
+  "zip": " ",
+  "meetingInfo": "Literature",
+  "wheelchair": false,
+  "eachMeeting": [
+   {
+    "MeetingDay": 1,
+    "startHour": 18,
+    "startMinute": 30,
+    "endHour": 19,
+    "endMinute": 30,
+    "SpecialInterest": "Women"
+   }
+  ],
+  "latLong": {
+   "lat": 40.736056,
+   "lng": -74.002725
+  }
+ },
+ {
+  "locationName": "St. John's Lutheran Church",
+  "theMeeting": "TEN PLUS",
+  "AddressLine1": [
+   "81 Christopher Street",
+   ""
+  ],
+  "AddressLine2": "enter at 83, basement",
+  "zip": "10014",
+  "meetingInfo": "The speaker will have 10+ years of sobriety. All welcome. Please ring Meeting Bell only",
+  "wheelchair": false,
+  "eachMeeting": [
+   {
+    "MeetingDay": 2,
+    "startHour": 20,
+    "startMinute": 0,
+    "endHour": 21,
+    "endMinute": 0
+   }
+  ],
+  "latLong": {
+   "lat": 40.7336373,
+   "lng": -74.0036221
+  }
+ },
+ {
+  "locationName": "University Settlement (The Chinatown YMCA)",
+  "theMeeting": "THE CAPTAIN'S TABLE",
+  "AddressLine1": [
+   "273 Bowery",
+   "Downstairs"
+  ],
+  "AddressLine2": "@ Houston Street",
+  "zip": "10002",
+  "meetingInfo": "Men's Meeting",
+  "wheelchair": true,
+  "eachMeeting": [
+   {
+    "MeetingDay": 0,
+    "startHour": 19,
+    "startMinute": 0,
+    "endHour": 20,
+    "endMinute": 0,
+    "MeetingType": "BB = Big Book meeting",
+    "SpecialInterest": "Men"
+   }
+  ],
+  "latLong": {
+   "lat": 40.7237496,
+   "lng": -73.992395
+  }
+ },
+ {
+  "locationName": "Manhattan Seventh-Day Adventist Church",
+  "theMeeting": "TOGETHER WE CAN",
+  "AddressLine1": [
+   "232 West 11th Street",
+   ""
+  ],
+  "AddressLine2": "Just off of 7th avenue",
+  "zip": "10014",
+  "meetingInfo": "",
+  "wheelchair": false,
+  "eachMeeting": [
+   {
+    "MeetingDay": 2,
+    "startHour": 18,
+    "startMinute": 45,
+    "endHour": 20,
+    "endMinute": 0
+   }
+  ],
+  "latLong": {
+   "lat": 40.736056,
+   "lng": -74.002725
+  }
+ },
+ {
+  "locationName": "Manhattan Church of The Seventh-day Adventist",
+  "theMeeting": "WEDNESDAY FOCUS",
+  "AddressLine1": [
+   "232 West 11th Street",
+   ""
+  ],
+  "AddressLine2": "Btwneen 7th Avenue and West 4th Street",
+  "zip": "10014",
+  "meetingInfo": "",
+  "wheelchair": true,
+  "eachMeeting": [
+   {
+    "MeetingDay": 3,
+    "startHour": 18,
+    "startMinute": 15,
+    "endHour": 19,
+    "endMinute": 15
+   }
+  ],
+  "latLong": {
+   "lat": 40.736056,
+   "lng": -74.002725
+  }
+ },
+ {
+  "locationName": "St. John's Lutheran Church",
+  "theMeeting": "WEST VILLAGE WOMEN",
+  "AddressLine1": [
+   "83 Christopher Street",
+   "Basement"
+  ],
+  "AddressLine2": "Betw. Bleeker &amp; 7th Avenue",
+  "zip": "10014",
+  "meetingInfo": "Focus women 5+ years of sobriety. All are welcome. Enter through Red Door left of church, Buzzer-Meeting Room",
+  "wheelchair": true,
+  "eachMeeting": [
+   {
+    "MeetingDay": 0,
+    "startHour": 18,
+    "startMinute": 30,
+    "endHour": 19,
+    "endMinute": 45,
+    "MeetingType": "C = Closed Discussion meeting",
+    "SpecialInterest": "Women"
+   }
+  ],
+  "latLong": {
+   "lat": 40.7336246,
+   "lng": -74.00377379999999
+  }
+ },
+ {
+  "locationName": "",
+  "theMeeting": "WOMEN INTO ACTION - Women Straight Ahead Saturday",
+  "AddressLine1": [
+   "220 West Houston Street",
+   "2nd Floor"
+  ],
+  "AddressLine2": "Betw. 6th Avenue &amp; Varick Street",
+  "zip": "10014",
+  "meetingInfo": "Women's Meeting",
+  "wheelchair": false,
+  "eachMeeting": [
+   {
+    "MeetingDay": 6,
+    "startHour": 16,
+    "startMinute": 45,
+    "endHour": 17,
+    "endMinute": 45,
+    "MeetingType": "C = Closed Discussion meeting",
+    "SpecialInterest": "Women"
+   }
+  ],
+  "latLong": {
+   "lat": 40.72871,
+   "lng": -74.004576
+  }
+ },
+ {
+  "locationName": "University Settlement @ Houston Street Center",
+  "theMeeting": "WOMEN TOGETHER (II)",
+  "AddressLine1": [
+   "273 Bowery",
+   "Classroom Floor"
+  ],
+  "AddressLine2": "@ The corner of Houston Street",
+  "zip": "10002",
+  "meetingInfo": "*Women's Meeting Lesbian focus.  All are welcome.",
+  "wheelchair": true,
+  "eachMeeting": [
+   {
+    "MeetingDay": 5,
+    "startHour": 18,
+    "startMinute": 15,
+    "endHour": 19,
+    "endMinute": 30,
+    "MeetingType": "C = Closed Discussion meeting",
+    "SpecialInterest": "Lesbian"
+   }
+  ],
+  "latLong": {
+   "lat": 40.7237496,
+   "lng": -73.992395
+  }
+ }
+]
