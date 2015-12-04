@@ -1,0 +1,3964 @@
+[
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7456308,
+    "lng": -74.0037443
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "NINTH AVENUE (II)",
+     "locationName": "General Theological Seminary",
+     "AddressLine1": [
+      "175 9th Avenue",
+      "1st and 2nd Floor"
+     ],
+     "AddressLine2": "Enter thru gate on 21st Street Betw. 9th &amp; 10th Avenues",
+     "meetingInfo": "Fri.6pm OD=11th Step Meditation, Fri.7:15pm O=Anniv Last Friday, +HIV Topic LGBTQ Friendly.  All are welcome. Fri 7:15 CD=Relationships in Sobriety Business meeting at Holy Apostoles on 1st Monday a",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.7456308,
+      "lng": -74.0037443
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5,
+      5
+     ],
+     "startHours": [
+      18,
+      18,
+      18,
+      19,
+      19,
+      19,
+      19,
+      20
+     ],
+     "startMinutes": [
+      0,
+      0,
+      0,
+      15,
+      15,
+      15,
+      15,
+      30
+     ],
+     "endHours": [
+      19,
+      19,
+      19,
+      20,
+      20,
+      20,
+      20,
+      21
+     ],
+     "endMinutes": [
+      0,
+      0,
+      0,
+      15,
+      15,
+      15,
+      15,
+      30
+     ],
+     "endTimes": [
+      0,
+      0,
+      0,
+      15,
+      15,
+      15,
+      15,
+      30
+     ],
+     "theMeetingTypes": [
+      "Unspecified",
+      "Unspecified",
+      "OD = Open Discussion meeting",
+      "Unspecified",
+      "C = Closed Discussion meeting",
+      "Unspecified",
+      "Unspecified",
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified",
+      "Unspecified",
+      "Eleventh Step Meditation",
+      "Unspecified",
+      "H.I.V Positive",
+      "Unspecified",
+      "Unspecified",
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7127837,
+    "lng": -74.0059413
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "ATLANTIC WEST STEP & TRADITION",
+     "locationName": "Fourth Universalist Church",
+     "AddressLine1": [
+      "4 West 76th Street. Meeting in the gym.",
+      ""
+     ],
+     "AddressLine2": "Between Central Park West &amp; Columbus Avenue",
+     "meetingInfo": "Alternating Step and Tradition meeting.",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.7127837,
+      "lng": -74.0059413
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      19
+     ],
+     "startMinutes": [
+      0
+     ],
+     "endHours": [
+      20
+     ],
+     "endMinutes": [
+      0
+     ],
+     "endTimes": [
+      0
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7343871,
+    "lng": -73.98503459999999
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "POTPOURRI",
+     "locationName": "St. George's Church",
+     "AddressLine1": [
+      "209 East 16th Street",
+      "Olmstead Hall"
+     ],
+     "AddressLine2": "Betw 3rd Avenue &amp; Rutherford Place",
+     "meetingInfo": "T Last Tuesday, Thu.=Topic",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.7343871,
+      "lng": -73.98503459999999
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      18
+     ],
+     "startMinutes": [
+      0
+     ],
+     "endHours": [
+      19
+     ],
+     "endMinutes": [
+      0
+     ],
+     "endTimes": [
+      0
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.76975280000001,
+    "lng": -73.95297889999999
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "BREAKING THROUGH",
+     "locationName": "Gracie Square Hospital",
+     "AddressLine1": [
+      "420 East 76th Street",
+      ""
+     ],
+     "AddressLine2": "Betw 1st &amp; York Avenues",
+     "meetingInfo": "*Open Last Friday Check with front desk security for meeting room location.",
+     "wheelchair": true,
+     "latLong": {
+      "lat": 40.76975280000001,
+      "lng": -73.95297889999999
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      18
+     ],
+     "startMinutes": [
+      30
+     ],
+     "endHours": [
+      19
+     ],
+     "endMinutes": [
+      30
+     ],
+     "endTimes": [
+      30
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.8191397,
+    "lng": -73.9454617
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "MID-HARLEM",
+     "locationName": "Grace Congregational Baptist Church",
+     "AddressLine1": [
+      "310 West 139th Street",
+      "Basement"
+     ],
+     "AddressLine2": "Betw Eighth &amp; Edgecombe Avenues",
+     "meetingInfo": "T 1st Monday at 7PM Open 1st Friday 8:10pm, Pitch other Fridays 8:10pm",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.8191397,
+      "lng": -73.9454617
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5,
+      5
+     ],
+     "startHours": [
+      19,
+      20
+     ],
+     "startMinutes": [
+      0,
+      0
+     ],
+     "endHours": [
+      20,
+      21
+     ],
+     "endMinutes": [
+      0,
+      0
+     ],
+     "endTimes": [
+      0,
+      0
+     ],
+     "theMeetingTypes": [
+      "Unspecified",
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified",
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.833379,
+    "lng": -73.94459800000001
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "GRUPO DESPERTAR",
+     "locationName": "Casita Esperanza",
+     "AddressLine1": [
+      "557 West 156th Street",
+      ""
+     ],
+     "AddressLine2": "",
+     "meetingInfo": "Spanish Speaking Meetings.",
+     "wheelchair": true,
+     "latLong": {
+      "lat": 40.833379,
+      "lng": -73.94459800000001
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      20
+     ],
+     "startMinutes": [
+      0
+     ],
+     "endHours": [
+      22
+     ],
+     "endMinutes": [
+      0
+     ],
+     "endTimes": [
+      0
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7336246,
+    "lng": -74.00377379999999
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "NEW GROUP",
+     "locationName": "St. John's Lutheran Church",
+     "AddressLine1": [
+      "83 Christopher Street",
+      "Red Door, Left of Church"
+     ],
+     "AddressLine2": "West of 7th Avenue, Enter Left, Red Door, Ring Buzzer",
+     "meetingInfo": "Gay & Lesbian focus.  All are welcome.",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.7336246,
+      "lng": -74.00377379999999
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      19
+     ],
+     "startMinutes": [
+      30
+     ],
+     "endHours": [
+      20
+     ],
+     "endMinutes": [
+      30
+     ],
+     "endTimes": [
+      30
+     ],
+     "theMeetingTypes": [
+      "B = Beginners meeting"
+     ],
+     "theSpecialInterest": [
+      "Gay, Lesbian and Bisexual"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.782668,
+    "lng": -73.956524
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "FRIDAY NIGHT MEN'S STEP",
+     "locationName": "St. Thomas More Church Rectory",
+     "AddressLine1": [
+      "65 East 89th Street",
+      ""
+     ],
+     "AddressLine2": "Betw Madison &amp; Park Avenues)  10128",
+     "meetingInfo": "Men's Meeting",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.782668,
+      "lng": -73.956524
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      18
+     ],
+     "startMinutes": [
+      15
+     ],
+     "endHours": [
+      19
+     ],
+     "endMinutes": [
+      15
+     ],
+     "endTimes": [
+      15
+     ],
+     "theMeetingTypes": [
+      "S = Step meeting"
+     ],
+     "theSpecialInterest": [
+      "Men"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7346729,
+    "lng": -73.989149
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "TWELVE AT SIX",
+     "locationName": "Beth Israel Phillips Ambulatory Center",
+     "AddressLine1": [
+      "10 Union Square East",
+      "2nd Floor, Conference Room #3"
+     ],
+     "AddressLine2": "Betw. 14th &amp; 15th Streets @ 4th Avenue",
+     "meetingInfo": "",
+     "wheelchair": true,
+     "latLong": {
+      "lat": 40.7346729,
+      "lng": -73.989149
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      18
+     ],
+     "startMinutes": [
+      0
+     ],
+     "endHours": [
+      19
+     ],
+     "endMinutes": [
+      0
+     ],
+     "endTimes": [
+      0
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7380866,
+    "lng": -73.997902
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "THE FELLOWSHIP CLUB",
+     "locationName": "McBurney YMCA",
+     "AddressLine1": [
+      "125 West 14th Street",
+      "1st Floor Meeting Room"
+     ],
+     "AddressLine2": "Betw. 6th &amp; 7th Avenues",
+     "meetingInfo": "",
+     "wheelchair": true,
+     "latLong": {
+      "lat": 40.7380866,
+      "lng": -73.997902
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      19
+     ],
+     "startMinutes": [
+      0
+     ],
+     "endHours": [
+      20
+     ],
+     "endMinutes": [
+      0
+     ],
+     "endTimes": [
+      0
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.727182,
+    "lng": -74.001238
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "SOHO (I)",
+     "locationName": "St. Anthony of Padua Church",
+     "AddressLine1": [
+      "155 Sullivan Street",
+      "Basement"
+     ],
+     "AddressLine2": "@ Houston Street",
+     "meetingInfo": "Mon.7pm=Anniv Last Mon., Fri.6:30pm=Interpreted for Deaf and Hard of Hearing. Friday Meeting occasionally changes the location;  please call New York Inter-Group to confirm meeting location.",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.727182,
+      "lng": -74.001238
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5,
+      5
+     ],
+     "startHours": [
+      18,
+      20
+     ],
+     "startMinutes": [
+      30,
+      0
+     ],
+     "endHours": [
+      19,
+      21
+     ],
+     "endMinutes": [
+      30,
+      0
+     ],
+     "endTimes": [
+      30,
+      0
+     ],
+     "theMeetingTypes": [
+      "B = Beginners meeting",
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Interpreted for the Deaf",
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.778125,
+    "lng": -73.949641
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "TRINITY",
+     "locationName": "Holy Trinity Church",
+     "AddressLine1": [
+      "341 East 87th Street",
+      "Choir Room (Ring Bell"
+     ],
+     "AddressLine2": "Btw. 1st &amp; 2nd Avenues)  10128",
+     "meetingInfo": "Anniv Last Tuesday @ 7:15pm All meetings are non-smoking. Last Fri. @ 7PM = T",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.778125,
+      "lng": -73.949641
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5,
+      5
+     ],
+     "startHours": [
+      19,
+      20
+     ],
+     "startMinutes": [
+      0,
+      30
+     ],
+     "endHours": [
+      20,
+      21
+     ],
+     "endMinutes": [
+      0,
+      30
+     ],
+     "endTimes": [
+      0,
+      30
+     ],
+     "theMeetingTypes": [
+      "Unspecified",
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified",
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7806782,
+    "lng": -73.9550237
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "CHAPTER FIVE (I)",
+     "locationName": "Immanuel Lutheran Church",
+     "AddressLine1": [
+      "1296 Lexington Avenue",
+      "Basement"
+     ],
+     "AddressLine2": "Enter through red door on Lexington Avenue, Betw 87th &amp; 88th Streets)  10128",
+     "meetingInfo": "Fri.6:15=Women's Meeting",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.7806782,
+      "lng": -73.9550237
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      18
+     ],
+     "startMinutes": [
+      15
+     ],
+     "endHours": [
+      19
+     ],
+     "endMinutes": [
+      15
+     ],
+     "endTimes": [
+      30
+     ],
+     "theMeetingTypes": [
+      "S = Step meeting"
+     ],
+     "theSpecialInterest": [
+      "Women"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.8255358,
+    "lng": -73.94690729999999
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "SUGAR HILL",
+     "locationName": "Council Center for Problems of Living",
+     "AddressLine1": [
+      "1727 Amsterdam Avenue",
+      "1st floor in the rear"
+     ],
+     "AddressLine2": "@ 145th St.",
+     "meetingInfo": "",
+     "wheelchair": true,
+     "latLong": {
+      "lat": 40.8255358,
+      "lng": -73.94690729999999
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      17
+     ],
+     "startMinutes": [
+      30
+     ],
+     "endHours": [
+      18
+     ],
+     "endMinutes": [
+      30
+     ],
+     "endTimes": [
+      30
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7081394,
+    "lng": -74.0039571
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "TRIBECA GROUP @ ST. MARGARET'S HOUSE",
+     "locationName": "",
+     "AddressLine1": [
+      "49 Fulton Street",
+      ""
+     ],
+     "AddressLine2": "Near Water",
+     "meetingInfo": "this is the new location as of 9/8/14 tribecagroup2014@gmail.com",
+     "wheelchair": true,
+     "latLong": {
+      "lat": 40.7081394,
+      "lng": -74.0039571
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      19
+     ],
+     "startMinutes": [
+      30
+     ],
+     "endHours": [
+      20
+     ],
+     "endMinutes": [
+      30
+     ],
+     "endTimes": [
+      30
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   },
+   {
+    "meetingGroup": {
+     "theMeeting": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE",
+     "locationName": "",
+     "AddressLine1": [
+      "49 Fulton Street",
+      ""
+     ],
+     "AddressLine2": "near Water",
+     "meetingInfo": "This is new location as of 9-12-14 M 7:30 am= Trad 1st Monday.",
+     "wheelchair": true,
+     "latLong": {
+      "lat": 40.7081394,
+      "lng": -74.0039571
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      17
+     ],
+     "startMinutes": [
+      30
+     ],
+     "endHours": [
+      18
+     ],
+     "endMinutes": [
+      30
+     ],
+     "endTimes": [
+      30
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7856499,
+    "lng": -73.97761899999999
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "WOMEN WEST AA",
+     "locationName": "Holy Trinity Church",
+     "AddressLine1": [
+      "213 West 82nd Street",
+      ""
+     ],
+     "AddressLine2": "Betw. Amsterdam Avenue &amp; Bway",
+     "meetingInfo": "Women's Meeting",
+     "wheelchair": true,
+     "latLong": {
+      "lat": 40.7856499,
+      "lng": -73.97761899999999
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      19
+     ],
+     "startMinutes": [
+      0
+     ],
+     "endHours": [
+      20
+     ],
+     "endMinutes": [
+      0
+     ],
+     "endTimes": [
+      0
+     ],
+     "theMeetingTypes": [
+      "C = Closed Discussion meeting"
+     ],
+     "theSpecialInterest": [
+      "Women"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.792663,
+    "lng": -73.940585
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "GRUPO NUEVA VIDA",
+     "locationName": "",
+     "AddressLine1": [
+      "2126 2nd Avenue",
+      "1st Floor"
+     ],
+     "AddressLine2": "Betw. 109th &amp; 110th Streets",
+     "meetingInfo": "Spanish speaking meetings.",
+     "wheelchair": true,
+     "latLong": {
+      "lat": 40.792663,
+      "lng": -73.940585
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      20
+     ],
+     "startMinutes": [
+      0
+     ],
+     "endHours": [
+      21
+     ],
+     "endMinutes": [
+      0
+     ],
+     "endTimes": [
+      0
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.784962,
+    "lng": -73.979984
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "EIGHTIETH STREET BEGINNERS",
+     "locationName": "All Angels Church",
+     "AddressLine1": [
+      "251 West 80th Street",
+      ""
+     ],
+     "AddressLine2": "",
+     "meetingInfo": "",
+     "wheelchair": true,
+     "latLong": {
+      "lat": 40.784962,
+      "lng": -73.979984
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      19
+     ],
+     "startMinutes": [
+      30
+     ],
+     "endHours": [
+      20
+     ],
+     "endMinutes": [
+      30
+     ],
+     "endTimes": [
+      45
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7538212,
+    "lng": -73.9994427
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "WOMEN OVER FORTY",
+     "locationName": "GMHC",
+     "AddressLine1": [
+      "446 West 33rd Street",
+      ""
+     ],
+     "AddressLine2": "Betw. 9th &amp; 10th Avenues",
+     "meetingInfo": "S 1st, C 2nd, BB 3rd, O Anniversary Meeting 4th Friday Women's Meeting.",
+     "wheelchair": true,
+     "latLong": {
+      "lat": 40.7538212,
+      "lng": -73.9994427
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      18
+     ],
+     "startMinutes": [
+      30
+     ],
+     "endHours": [
+      19
+     ],
+     "endMinutes": [
+      30
+     ],
+     "endTimes": [
+      45
+     ],
+     "theMeetingTypes": [
+      "C = Closed Discussion meeting"
+     ],
+     "theSpecialInterest": [
+      "Women"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7385282,
+    "lng": -73.9840629
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "MANHATTAN",
+     "locationName": "Gustavus Adolphus Church",
+     "AddressLine1": [
+      "155 East 22nd Street",
+      "Basement"
+     ],
+     "AddressLine2": "Btw 3rd &amp; Lex Avenues",
+     "meetingInfo": "Open Anniv Last Tuesday. All meetings are non-smoking.",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.7385282,
+      "lng": -73.9840629
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      19
+     ],
+     "startMinutes": [
+      0
+     ],
+     "endHours": [
+      20
+     ],
+     "endMinutes": [
+      0
+     ],
+     "endTimes": [
+      15
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7599572,
+    "lng": -73.9947479
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "POWERLESS",
+     "locationName": "Manhattan Plaza Health Club",
+     "AddressLine1": [
+      "484 West 43rd Street",
+      "1st Floor"
+     ],
+     "AddressLine2": "@ 43rd Street &amp; 10th Avenue",
+     "meetingInfo": "Fri=Living Sober, Sat=Promises",
+     "wheelchair": true,
+     "latLong": {
+      "lat": 40.7599572,
+      "lng": -73.9947479
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      19
+     ],
+     "startMinutes": [
+      0
+     ],
+     "endHours": [
+      20
+     ],
+     "endMinutes": [
+      0
+     ],
+     "endTimes": [
+      0
+     ],
+     "theMeetingTypes": [
+      "C = Closed Discussion meeting"
+     ],
+     "theSpecialInterest": [
+      "Living Sober"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7493372,
+    "lng": -73.998837
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "SPIRITUAL FRIDAYS",
+     "locationName": "Church of The Holy Apostles",
+     "AddressLine1": [
+      "296 Ninth Avenue",
+      "Rectory, 1st Floor"
+     ],
+     "AddressLine2": "@28th street, Enter at 9th avenue, small building south of the church",
+     "meetingInfo": "Topic meeting, focus is on Spirituality",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.7493372,
+      "lng": -73.998837
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      18
+     ],
+     "startMinutes": [
+      30
+     ],
+     "endHours": [
+      19
+     ],
+     "endMinutes": [
+      30
+     ],
+     "endTimes": [
+      30
+     ],
+     "theMeetingTypes": [
+      "OD = Open Discussion meeting"
+     ],
+     "theSpecialInterest": [
+      "Spiritual Workshop"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.75856539999999,
+    "lng": -73.9703834
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "LIFE LINE",
+     "locationName": "St. Peter's Lutheran Church @ CitiCorp Center",
+     "AddressLine1": [
+      "619 Lexington Avenue",
+      "Lower Level 2 in The Studio"
+     ],
+     "AddressLine2": "Enter on 54th Street, Betw. Lexington &amp; 3rd Avenues",
+     "meetingInfo": "All meetings are non-smoking.",
+     "wheelchair": true,
+     "latLong": {
+      "lat": 40.75856539999999,
+      "lng": -73.9703834
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      17
+     ],
+     "startMinutes": [
+      30
+     ],
+     "endHours": [
+      18
+     ],
+     "endMinutes": [
+      30
+     ],
+     "endTimes": [
+      30
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7697168,
+    "lng": -73.9868805
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "WEST 58th STREET STEP",
+     "locationName": "Mount Sinai - Roosevelt Hospital",
+     "AddressLine1": [
+      "1000 Tenth Avenue",
+      "8th Fl, Room #8G-49"
+     ],
+     "AddressLine2": "Betw 58th &amp; 59th Streets",
+     "meetingInfo": "",
+     "wheelchair": true,
+     "latLong": {
+      "lat": 40.7697168,
+      "lng": -73.9868805
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      19
+     ],
+     "startMinutes": [
+      30
+     ],
+     "endHours": [
+      20
+     ],
+     "endMinutes": [
+      30
+     ],
+     "endTimes": [
+      30
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.784303,
+    "lng": -73.97175399999999
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "FRIDAY NIGHT STEP",
+     "locationName": "Church of St. Matthew and St. Timothy",
+     "AddressLine1": [
+      "26 West 84th Street",
+      ""
+     ],
+     "AddressLine2": "Betw. Columbus Avenue and Central Park West",
+     "meetingInfo": "MEETING NOW TAKES PLACE YEAR ROUND! Up concrete steps, take stairs on left, 2nd Floor (Sandford Hall)",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.784303,
+      "lng": -73.97175399999999
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      18
+     ],
+     "startMinutes": [
+      30
+     ],
+     "endHours": [
+      19
+     ],
+     "endMinutes": [
+      30
+     ],
+     "endTimes": [
+      45
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7237496,
+    "lng": -73.992395
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "WOMEN TOGETHER (II)",
+     "locationName": "University Settlement @ Houston Street Center",
+     "AddressLine1": [
+      "273 Bowery",
+      "Classroom Floor"
+     ],
+     "AddressLine2": "@ The corner of Houston Street",
+     "meetingInfo": "*Women's Meeting Lesbian focus.  All are welcome.",
+     "wheelchair": true,
+     "latLong": {
+      "lat": 40.7237496,
+      "lng": -73.992395
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      18
+     ],
+     "startMinutes": [
+      15
+     ],
+     "endHours": [
+      19
+     ],
+     "endMinutes": [
+      15
+     ],
+     "endTimes": [
+      30
+     ],
+     "theMeetingTypes": [
+      "C = Closed Discussion meeting"
+     ],
+     "theSpecialInterest": [
+      "Lesbian"
+     ]
+    }
+   },
+   {
+    "meetingGroup": {
+     "theMeeting": "A.A. ON THE BOWERY",
+     "locationName": "University Settlement",
+     "AddressLine1": [
+      "273 Bowery",
+      "Downstairs"
+     ],
+     "AddressLine2": "@ Houston Street",
+     "meetingInfo": "",
+     "wheelchair": true,
+     "latLong": {
+      "lat": 40.7237496,
+      "lng": -73.992395
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      18
+     ],
+     "startMinutes": [
+      0
+     ],
+     "endHours": [
+      19
+     ],
+     "endMinutes": [
+      0
+     ],
+     "endTimes": [
+      0
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   },
+   {
+    "meetingGroup": {
+     "theMeeting": "EAST VILLAGE SOBER AGNOSTICS",
+     "locationName": "University Settlement (The Chinatown YMCA)",
+     "AddressLine1": [
+      "273 Bowery",
+      ""
+     ],
+     "AddressLine2": "@ Houston Street",
+     "meetingInfo": "Ask front desk for meeting location",
+     "wheelchair": true,
+     "latLong": {
+      "lat": 40.7237496,
+      "lng": -73.992395
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      18
+     ],
+     "startMinutes": [
+      45
+     ],
+     "endHours": [
+      20
+     ],
+     "endMinutes": [
+      45
+     ],
+     "endTimes": [
+      0
+     ],
+     "theMeetingTypes": [
+      "OD = Open Discussion meeting"
+     ],
+     "theSpecialInterest": [
+      "Agnostic"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7346311,
+    "lng": -73.9879732
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "T.G.I.F. & S.",
+     "locationName": "Seafarers & International House",
+     "AddressLine1": [
+      "123 East 15th Street",
+      "2nd Floor"
+     ],
+     "AddressLine2": "@ Irving Place",
+     "meetingInfo": "Fri B = 1st Time in AA Only",
+     "wheelchair": true,
+     "latLong": {
+      "lat": 40.7346311,
+      "lng": -73.9879732
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5,
+      5,
+      5
+     ],
+     "startHours": [
+      19,
+      19,
+      20
+     ],
+     "startMinutes": [
+      30,
+      30,
+      45
+     ],
+     "endHours": [
+      20,
+      20,
+      21
+     ],
+     "endMinutes": [
+      30,
+      30,
+      45
+     ],
+     "endTimes": [
+      30,
+      30,
+      45
+     ],
+     "theMeetingTypes": [
+      "Unspecified",
+      "Unspecified",
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified",
+      "Unspecified",
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7479584,
+    "lng": -73.9783352
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "GRAND CENTRAL",
+     "locationName": "Soldiers, Sailors, Marines & Airmen's Club",
+     "AddressLine1": [
+      "283 Lexington Avenue",
+      "2nd Floor"
+     ],
+     "AddressLine2": "Betw 36th &amp; 37th Streets",
+     "meetingInfo": "T=Last Tuesday, Fri=Anniv. 2nd to Last Friday. All meetings are non-smoking.",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.7479584,
+      "lng": -73.9783352
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      17
+     ],
+     "startMinutes": [
+      30
+     ],
+     "endHours": [
+      18
+     ],
+     "endMinutes": [
+      30
+     ],
+     "endTimes": [
+      30
+     ],
+     "theMeetingTypes": [
+      "C = Closed Discussion meeting"
+     ],
+     "theSpecialInterest": [
+      "First Step Workshop"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.76955419999999,
+    "lng": -73.955512
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "FRIDAY CENTRAL",
+     "locationName": "Jan Hus Church",
+     "AddressLine1": [
+      "351 East 74th Street",
+      "Mazaryk Room"
+     ],
+     "AddressLine2": "Betw. 1st &amp; 2nd Avenues",
+     "meetingInfo": "",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.76955419999999,
+      "lng": -73.955512
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      18
+     ],
+     "startMinutes": [
+      30
+     ],
+     "endHours": [
+      19
+     ],
+     "endMinutes": [
+      30
+     ],
+     "endTimes": [
+      30
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   },
+   {
+    "meetingGroup": {
+     "theMeeting": "FRIDAY NIGHT GAY MEN & WOMEN",
+     "locationName": "Jan Hus Church",
+     "AddressLine1": [
+      "351 East 74th Street",
+      "2nd Floor"
+     ],
+     "AddressLine2": "Betw. 1st &amp; 2nd Avenues",
+     "meetingInfo": "1st Step Gay & lesbian focus.  All are welcome.",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.76955419999999,
+      "lng": -73.955512
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      20
+     ],
+     "startMinutes": [
+      0
+     ],
+     "endHours": [
+      21
+     ],
+     "endMinutes": [
+      0
+     ],
+     "endTimes": [
+      0
+     ],
+     "theMeetingTypes": [
+      "S = Step meeting"
+     ],
+     "theSpecialInterest": [
+      "Gay, Lesbian and Bisexual"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7360418,
+    "lng": -74.0021409
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "RED DOOR",
+     "locationName": "St. John's Episcopal Church",
+     "AddressLine1": [
+      "224 Waverly Place",
+      "1st floor event room"
+     ],
+     "AddressLine2": "@ 11th Street &amp; 7th Avenue South",
+     "meetingInfo": "Fri.7:00pm=Promises Meeting All meetings are Gay & Lesbian focused.  All are welcome.",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.7360418,
+      "lng": -74.0021409
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5,
+      5
+     ],
+     "startHours": [
+      19,
+      20
+     ],
+     "startMinutes": [
+      0,
+      30
+     ],
+     "endHours": [
+      20,
+      21
+     ],
+     "endMinutes": [
+      0,
+      30
+     ],
+     "endTimes": [
+      0,
+      30
+     ],
+     "theMeetingTypes": [
+      "OD = Open Discussion meeting",
+      "OD = Open Discussion meeting"
+     ],
+     "theSpecialInterest": [
+      "Promises",
+      "Gay, Lesbian and Bisexual"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.71336,
+    "lng": -74.0025146
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "FRIDAY DOWNTOWN",
+     "locationName": "St. Andrew's Church",
+     "AddressLine1": [
+      "20 Cardinal Hayes Place",
+      "Enter thru driveway behind Church"
+     ],
+     "AddressLine2": "1 Block North of Chamber Street, Behind Federal Courthouse",
+     "meetingInfo": "Note: Location Subject to change",
+     "wheelchair": true,
+     "latLong": {
+      "lat": 40.71336,
+      "lng": -74.0025146
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      18
+     ],
+     "startMinutes": [
+      0
+     ],
+     "endHours": [
+      19
+     ],
+     "endMinutes": [
+      0
+     ],
+     "endTimes": [
+      0
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.71371430000001,
+    "lng": -73.983033
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "GRUPO CENTRAL",
+     "locationName": "St. Augustine's Church",
+     "AddressLine1": [
+      "292 Henry Street",
+      "Basement"
+     ],
+     "AddressLine2": "A la isquierda de la iglesia",
+     "meetingInfo": "Spanish speaking meetings.",
+     "wheelchair": true,
+     "latLong": {
+      "lat": 40.71371430000001,
+      "lng": -73.983033
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      20
+     ],
+     "startMinutes": [
+      0
+     ],
+     "endHours": [
+      21
+     ],
+     "endMinutes": [
+      0
+     ],
+     "endTimes": [
+      0
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7338148,
+    "lng": -73.98534490000002
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "NEW LIFE IN SOBRIETY",
+     "locationName": "Friends Meeting House",
+     "AddressLine1": [
+      "15 Rutherford Place",
+      "Basement"
+     ],
+     "AddressLine2": "Betw 2nd &amp; 3rd Avenues",
+     "meetingInfo": "T 1st Monday, Anniv Last Friday. All meetings are non-smoking.",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.7338148,
+      "lng": -73.98534490000002
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5,
+      5
+     ],
+     "startHours": [
+      19,
+      20
+     ],
+     "startMinutes": [
+      0,
+      30
+     ],
+     "endHours": [
+      20,
+      21
+     ],
+     "endMinutes": [
+      0,
+      30
+     ],
+     "endTimes": [
+      0,
+      30
+     ],
+     "theMeetingTypes": [
+      "Unspecified",
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified",
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7753548,
+    "lng": -73.95818179999999
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "FEARLESS",
+     "locationName": "All Souls Uniterian Church",
+     "AddressLine1": [
+      "1157 Lexington Avenue",
+      "1st Floor"
+     ],
+     "AddressLine2": "@ East 80th Street",
+     "meetingInfo": "Topic Meeting",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.7753548,
+      "lng": -73.95818179999999
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      19
+     ],
+     "startMinutes": [
+      30
+     ],
+     "endHours": [
+      20
+     ],
+     "endMinutes": [
+      30
+     ],
+     "endTimes": [
+      30
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.77560099999999,
+    "lng": -73.98109099999999
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "A VISION FOR YOU",
+     "locationName": "Christ & St. Stephen's Church",
+     "AddressLine1": [
+      "120 West 69th Street",
+      "Basement"
+     ],
+     "AddressLine2": "Betw Columbus Avenue &amp; Bway",
+     "meetingInfo": "",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.77560099999999,
+      "lng": -73.98109099999999
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5,
+      5
+     ],
+     "startHours": [
+      19,
+      21
+     ],
+     "startMinutes": [
+      45,
+      0
+     ],
+     "endHours": [
+      20,
+      22
+     ],
+     "endMinutes": [
+      45,
+      0
+     ],
+     "endTimes": [
+      45,
+      0
+     ],
+     "theMeetingTypes": [
+      "Unspecified",
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified",
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.727553,
+    "lng": -73.987661
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "YOUNG AND WISE",
+     "locationName": "Middle Collegiate Church ",
+     "AddressLine1": [
+      "50 East 7th Street",
+      ""
+     ],
+     "AddressLine2": "Betw 1st &amp; 2nd Avenue",
+     "meetingInfo": "Basement",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.727553,
+      "lng": -73.987661
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      20
+     ],
+     "startMinutes": [
+      0
+     ],
+     "endHours": [
+      21
+     ],
+     "endMinutes": [
+      0
+     ],
+     "endTimes": [
+      30
+     ],
+     "theMeetingTypes": [
+      "C = Closed Discussion meeting"
+     ],
+     "theSpecialInterest": [
+      "Young People"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7356187,
+    "lng": -73.9994094
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "SPEAKER MAGIC",
+     "locationName": "PS 41 Elementary School",
+     "AddressLine1": [
+      "116 West 11th Street",
+      ""
+     ],
+     "AddressLine2": "",
+     "meetingInfo": "",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.7356187,
+      "lng": -73.9994094
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      19
+     ],
+     "startMinutes": [
+      0
+     ],
+     "endHours": [
+      20
+     ],
+     "endMinutes": [
+      0
+     ],
+     "endTimes": [
+      0
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.77223,
+    "lng": -73.95168
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "SEVENTY-NINTH STREET WORKSHOP (I)",
+     "locationName": "St. Monica's Church",
+     "AddressLine1": [
+      "413 East 79th Street",
+      "Basement"
+     ],
+     "AddressLine2": "Betw 1st &amp; York Avenues",
+     "meetingInfo": "Sun.10am=11th S, Tue.6am=Came To Believe Thu.6am=Step & Trad.",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.77223,
+      "lng": -73.95168
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5,
+      5,
+      5
+     ],
+     "startHours": [
+      18,
+      20,
+      22
+     ],
+     "startMinutes": [
+      15,
+      0,
+      0
+     ],
+     "endHours": [
+      19,
+      21,
+      23
+     ],
+     "endMinutes": [
+      15,
+      0,
+      0
+     ],
+     "endTimes": [
+      15,
+      0,
+      0
+     ],
+     "theMeetingTypes": [
+      "C = Closed Discussion meeting",
+      "Unspecified",
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Children Welcome",
+      "Unspecified",
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.805083,
+    "lng": -73.960405
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "MORNINGSIDE HEIGHTS BEGINNERS",
+     "locationName": "Church of Notre Dame",
+     "AddressLine1": [
+      "405 West 114th Street",
+      "Merton Room"
+     ],
+     "AddressLine2": "1 Block East of  Amsterdam Avenue",
+     "meetingInfo": "",
+     "wheelchair": true,
+     "latLong": {
+      "lat": 40.805083,
+      "lng": -73.960405
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      18
+     ],
+     "startMinutes": [
+      30
+     ],
+     "endHours": [
+      19
+     ],
+     "endMinutes": [
+      30
+     ],
+     "endTimes": [
+      30
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.77711,
+    "lng": -73.981217
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "WESTSIDE STEP",
+     "locationName": "Blessed Sacrament Church Rectory",
+     "AddressLine1": [
+      "152 West 71st Street",
+      ""
+     ],
+     "AddressLine2": "",
+     "meetingInfo": "",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.77711,
+      "lng": -73.981217
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      19
+     ],
+     "startMinutes": [
+      0
+     ],
+     "endHours": [
+      20
+     ],
+     "endMinutes": [
+      0
+     ],
+     "endTimes": [
+      0
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.763291,
+    "lng": -73.994907
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "GRUPO BUENA VOLUNTAD",
+     "locationName": "Apartment Building",
+     "AddressLine1": [
+      "538 West 47th Street",
+      ""
+     ],
+     "AddressLine2": "Betw 10th &amp; 11th Avenuess",
+     "meetingInfo": "All meetings are Open Discussion format.",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.763291,
+      "lng": -73.994907
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      20
+     ],
+     "startMinutes": [
+      0
+     ],
+     "endHours": [
+      21
+     ],
+     "endMinutes": [
+      0
+     ],
+     "endTimes": [
+      0
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7614278,
+    "lng": -73.9650489
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "SERENITY EAST",
+     "locationName": "ALL SAINTS CHURCH",
+     "AddressLine1": [
+      "230 East 60th Street",
+      "Basement"
+     ],
+     "AddressLine2": "Betw 2nd &amp; 3rd Avenues",
+     "meetingInfo": "Fri.6:30=Steps 3 & 11",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.7614278,
+      "lng": -73.9650489
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5,
+      5
+     ],
+     "startHours": [
+      18,
+      20
+     ],
+     "startMinutes": [
+      30,
+      0
+     ],
+     "endHours": [
+      19,
+      21
+     ],
+     "endMinutes": [
+      30,
+      0
+     ],
+     "endTimes": [
+      30,
+      0
+     ],
+     "theMeetingTypes": [
+      "Unspecified",
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified",
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7789495,
+    "lng": -73.9747351
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "CHOCK FULL OF SOBRIETY",
+     "locationName": "Universalist Church",
+     "AddressLine1": [
+      "4 West 76th Street",
+      "(In the gym"
+     ],
+     "AddressLine2": "Betw Columbus Avenue &amp; Central Park West",
+     "meetingInfo": "S 1st & T Last Friday",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.7789495,
+      "lng": -73.9747351
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      18
+     ],
+     "startMinutes": [
+      30
+     ],
+     "endHours": [
+      19
+     ],
+     "endMinutes": [
+      30
+     ],
+     "endTimes": [
+      30
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7298724,
+    "lng": -73.9827759
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "THE 12th STREET WORKSHOP",
+     "locationName": "",
+     "AddressLine1": [
+      "411 East 12th Street",
+      "Basement"
+     ],
+     "AddressLine2": "Betw 1st Avenue &amp; Avenue A",
+     "meetingInfo": "Sun.4:30=Business Mtg Only 1st & Anniv Last Sunday Sun.7:30pm,Tue.5:30,Wed.8:30pm & Sat.10:30am=11th Step Meditation Mon.5:30=Gratitude & Sat.7:30am=AA Grapevine",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.7298724,
+      "lng": -73.9827759
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5,
+      5,
+      5
+     ],
+     "startHours": [
+      17,
+      19,
+      20
+     ],
+     "startMinutes": [
+      30,
+      0,
+      30
+     ],
+     "endHours": [
+      18,
+      20,
+      21
+     ],
+     "endMinutes": [
+      30,
+      0,
+      30
+     ],
+     "endTimes": [
+      30,
+      0,
+      30
+     ],
+     "theMeetingTypes": [
+      "Unspecified",
+      "Unspecified",
+      "B = Beginners meeting"
+     ],
+     "theSpecialInterest": [
+      "Unspecified",
+      "Unspecified",
+      "First Step Workshop"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7789434,
+    "lng": -73.9797758
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "HARGRAVE - Hargrave House",
+     "locationName": "Hamilton House",
+     "AddressLine1": [
+      "141 West 73rd Street",
+      ""
+     ],
+     "AddressLine2": "between Columbus and AAvenue",
+     "meetingInfo": "",
+     "wheelchair": true,
+     "latLong": {
+      "lat": 40.7789434,
+      "lng": -73.9797758
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      19
+     ],
+     "startMinutes": [
+      0
+     ],
+     "endHours": [
+      20
+     ],
+     "endMinutes": [
+      0
+     ],
+     "endTimes": [
+      0
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.748323,
+    "lng": -73.97884499999999
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "MUSTARD SEED (I)",
+     "locationName": "",
+     "AddressLine1": [
+      "122 East 37th Street",
+      "Basement"
+     ],
+     "AddressLine2": "Betw Park &amp; Lexington Avenues",
+     "meetingInfo": "Sun.7:30am,Tue.6:15pm B & Wed.6:15pm C =Meditation Wkshp., Sun.9:30am Step=Back to Basics, Fri.7:30pm=Anniv.every Fri. Thurs. 8am back room, Gratitude",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.748323,
+      "lng": -73.97884499999999
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5,
+      5,
+      5
+     ],
+     "startHours": [
+      18,
+      19,
+      22
+     ],
+     "startMinutes": [
+      15,
+      30,
+      0
+     ],
+     "endHours": [
+      19,
+      20,
+      23
+     ],
+     "endMinutes": [
+      15,
+      30,
+      0
+     ],
+     "endTimes": [
+      15,
+      30,
+      0
+     ],
+     "theMeetingTypes": [
+      "Unspecified",
+      "Unspecified",
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified",
+      "Unspecified",
+      "Unspecified"
+     ]
+    }
+   },
+   {
+    "meetingGroup": {
+     "theMeeting": "COURAGE TO CHANGE",
+     "locationName": "",
+     "AddressLine1": [
+      "122 East 37th Street",
+      "Basement"
+     ],
+     "AddressLine2": "Betw. Park &amp; Lexington Avenues ",
+     "meetingInfo": "Wed.6:15 BB=OD Big Book Study Fri.7:30pm=Anniv. Meeting every Fri.",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.748323,
+      "lng": -73.97884499999999
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5,
+      5
+     ],
+     "startHours": [
+      18,
+      19
+     ],
+     "startMinutes": [
+      15,
+      30
+     ],
+     "endHours": [
+      19,
+      20
+     ],
+     "endMinutes": [
+      15,
+      30
+     ],
+     "endTimes": [
+      15,
+      30
+     ],
+     "theMeetingTypes": [
+      "Unspecified",
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified",
+      "Unspecified"
+     ]
+    }
+   },
+   {
+    "meetingGroup": {
+     "theMeeting": "GRUPO BRASIL",
+     "locationName": "",
+     "AddressLine1": [
+      "122 East 37th Street",
+      "Basement"
+     ],
+     "AddressLine2": "Betw. Park &amp; Lexington Avenues",
+     "meetingInfo": "Portugese speaking meeting.",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.748323,
+      "lng": -73.97884499999999
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      20
+     ],
+     "startMinutes": [
+      0
+     ],
+     "endHours": [
+      21
+     ],
+     "endMinutes": [
+      0
+     ],
+     "endTimes": [
+      0
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.8560587,
+    "lng": -73.93446569999999
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "THE MISSING LINK",
+     "locationName": "Our Saviour's Atonement Church",
+     "AddressLine1": [
+      "178 Bennett Avenue",
+      "2nd Floor"
+     ],
+     "AddressLine2": "@ 189th Street) South Entrance",
+     "meetingInfo": "1st- Step, 2nd-OD, 3rd-Beg., 4th- BB, 5th- OD",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.8560587,
+      "lng": -73.93446569999999
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      19
+     ],
+     "startMinutes": [
+      0
+     ],
+     "endHours": [
+      20
+     ],
+     "endMinutes": [
+      0
+     ],
+     "endTimes": [
+      0
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7592843,
+    "lng": -73.9873049
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "RAINBOW ROOM",
+     "locationName": "46th Street Club House",
+     "AddressLine1": [
+      "252 West 46th Street",
+      "3rd Floor"
+     ],
+     "AddressLine2": "Betw. Broadway &amp; 8th Avenue",
+     "meetingInfo": "Gay, Lesbian, Bisexual & Transgender Focus.  All are welcome. *Last Saturday of month=\"Open Anniversary\"",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.7592843,
+      "lng": -73.9873049
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5,
+      5,
+      5
+     ],
+     "startHours": [
+      17,
+      18,
+      20
+     ],
+     "startMinutes": [
+      30,
+      45,
+      0
+     ],
+     "endHours": [
+      18,
+      19,
+      21
+     ],
+     "endMinutes": [
+      30,
+      45,
+      0
+     ],
+     "endTimes": [
+      30,
+      45,
+      0
+     ],
+     "theMeetingTypes": [
+      "C = Closed Discussion meeting",
+      "OD = Open Discussion meeting",
+      "S = Step meeting"
+     ],
+     "theSpecialInterest": [
+      "Gay, Lesbian and Bisexual",
+      "Gay, Lesbian and Bisexual",
+      "Gay, Lesbian and Bisexual"
+     ]
+    }
+   },
+   {
+    "meetingGroup": {
+     "theMeeting": "YOUNG PEOPLE'S MEETING",
+     "locationName": "46th Street Club House",
+     "AddressLine1": [
+      "252 West 46th Street",
+      "3rd Floor"
+     ],
+     "AddressLine2": "Btw. 7th &amp; 8th Avenues @ 46th Street Clubhouse",
+     "meetingInfo": "Young People BB Meeting",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.7592843,
+      "lng": -73.9873049
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      21
+     ],
+     "startMinutes": [
+      15
+     ],
+     "endHours": [
+      22
+     ],
+     "endMinutes": [
+      15
+     ],
+     "endTimes": [
+      15
+     ],
+     "theMeetingTypes": [
+      "BB = Big Book meeting"
+     ],
+     "theSpecialInterest": [
+      "Young People"
+     ]
+    }
+   },
+   {
+    "meetingGroup": {
+     "theMeeting": "FORTY-FIVE SOLUTIONS",
+     "locationName": "46th Street Club House",
+     "AddressLine1": [
+      "252 West 46th Street",
+      ""
+     ],
+     "AddressLine2": "Betw Broadway &amp; 8th Avenue",
+     "meetingInfo": "",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.7592843,
+      "lng": -73.9873049
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      22
+     ],
+     "startMinutes": [
+      30
+     ],
+     "endHours": [
+      23
+     ],
+     "endMinutes": [
+      30
+     ],
+     "endTimes": [
+      30
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.801997,
+    "lng": -73.965966
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "GRUPO DULCES 24",
+     "locationName": "Grace House",
+     "AddressLine1": [
+      "218 West 108th Street",
+      "Main Floor"
+     ],
+     "AddressLine2": "Betw. Amsterdam Avenue &amp; Broadway",
+     "meetingInfo": "B Last Friday Bilingual (English-Spanish) Meetings.",
+     "wheelchair": true,
+     "latLong": {
+      "lat": 40.801997,
+      "lng": -73.965966
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      19
+     ],
+     "startMinutes": [
+      30
+     ],
+     "endHours": [
+      20
+     ],
+     "endMinutes": [
+      30
+     ],
+     "endTimes": [
+      30
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7912092,
+    "lng": -73.9653891
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "COLUMBUS AT FIVE",
+     "locationName": "Second Presbyterian Church",
+     "AddressLine1": [
+      "3 West 95th Street",
+      "Lower Level Auditorium"
+     ],
+     "AddressLine2": "Betw Central Park West &amp; Columbus Avenue",
+     "meetingInfo": "Children are welcome at all meetings. All meetings are non-smoking.",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.7912092,
+      "lng": -73.9653891
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      19
+     ],
+     "startMinutes": [
+      0
+     ],
+     "endHours": [
+      20
+     ],
+     "endMinutes": [
+      0
+     ],
+     "endTimes": [
+      0
+     ],
+     "theMeetingTypes": [
+      "C = Closed Discussion meeting"
+     ],
+     "theSpecialInterest": [
+      "Topic"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7944123,
+    "lng": -73.97050229999999
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "ALTERED ATTITUDES",
+     "locationName": "Holy Name Church",
+     "AddressLine1": [
+      "207 West 96th Street",
+      "Little Room Basement"
+     ],
+     "AddressLine2": "Betw. Amsterdam Avenue &amp; Bway.",
+     "meetingInfo": "",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.7944123,
+      "lng": -73.97050229999999
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      21
+     ],
+     "startMinutes": [
+      30
+     ],
+     "endHours": [
+      22
+     ],
+     "endMinutes": [
+      30
+     ],
+     "endTimes": [
+      30
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   },
+   {
+    "meetingGroup": {
+     "theMeeting": "BROADWAY AT 96TH",
+     "locationName": "Holy Name Church",
+     "AddressLine1": [
+      "207 West 96th Street",
+      "Basement, Little Room"
+     ],
+     "AddressLine2": "Btw. Amsterdam &amp; Broadway",
+     "meetingInfo": "",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.7944123,
+      "lng": -73.97050229999999
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      19
+     ],
+     "startMinutes": [
+      30
+     ],
+     "endHours": [
+      20
+     ],
+     "endMinutes": [
+      30
+     ],
+     "endTimes": [
+      30
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   },
+   {
+    "meetingGroup": {
+     "theMeeting": "NINETY-SIXTH STREET WORKSHOP",
+     "locationName": "Holy Name Church",
+     "AddressLine1": [
+      "207 West 96th Street",
+      "Basement, Little Room"
+     ],
+     "AddressLine2": "Betw Amsterdam &amp; Broadway",
+     "meetingInfo": "Anniv. Last Thursday, Fri=Promises, Sat=As Bill Sees It",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.7944123,
+      "lng": -73.97050229999999
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      22
+     ],
+     "startMinutes": [
+      0
+     ],
+     "endHours": [
+      23
+     ],
+     "endMinutes": [
+      0
+     ],
+     "endTimes": [
+      0
+     ],
+     "theMeetingTypes": [
+      "C = Closed Discussion meeting"
+     ],
+     "theSpecialInterest": [
+      "Promises"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7580306,
+    "lng": -73.98369
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "NEW BUT WEST",
+     "locationName": "St. Mary the Virgin Church",
+     "AddressLine1": [
+      "133 West 46th Street",
+      "2nd &amp; 3rd Floor"
+     ],
+     "AddressLine2": "Betw. 6th &amp; 7th Avenue",
+     "meetingInfo": "Tue.Step=#'s 4-7, Wed.5:30=Grapevine Topic, Thu.12:30 Step=#'s 4-7 Thu.5:30=T last Thu.,Fri.BB=T last Fri. Fri.Step=#'s 8-12",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.7580306,
+      "lng": -73.98369
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      17
+     ],
+     "startMinutes": [
+      30
+     ],
+     "endHours": [
+      18
+     ],
+     "endMinutes": [
+      30
+     ],
+     "endTimes": [
+      30
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7576553,
+    "lng": -73.9899274
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "ALANON HOUSE   (AA Meetings Only)",
+     "locationName": "",
+     "AddressLine1": [
+      "303 West 42nd Street",
+      "3rd Floor, Room #306"
+     ],
+     "AddressLine2": "@ Corner of 8th Avenue",
+     "meetingInfo": "Sun.2pm=Women's Meeting",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.7576553,
+      "lng": -73.9899274
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5,
+      5
+     ],
+     "startHours": [
+      18,
+      20
+     ],
+     "startMinutes": [
+      15,
+      0
+     ],
+     "endHours": [
+      19,
+      21
+     ],
+     "endMinutes": [
+      15,
+      0
+     ],
+     "endTimes": [
+      15,
+      0
+     ],
+     "theMeetingTypes": [
+      "Unspecified",
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified",
+      "Unspecified"
+     ]
+    }
+   },
+   {
+    "meetingGroup": {
+     "theMeeting": "42nd AT 9:00pm",
+     "locationName": "",
+     "AddressLine1": [
+      "303 West 42nd Street",
+      "Room #404"
+     ],
+     "AddressLine2": "Betw 8th &amp; 9th Avenues",
+     "meetingInfo": "Sat=A.A. Literature",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.7576553,
+      "lng": -73.9899274
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      21
+     ],
+     "startMinutes": [
+      15
+     ],
+     "endHours": [
+      22
+     ],
+     "endMinutes": [
+      15
+     ],
+     "endTimes": [
+      15
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.73261979999999,
+    "lng": -74.0068029
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "GREENWICH VILLAGE",
+     "locationName": "St. Luke's Episcopal School",
+     "AddressLine1": [
+      "487 Hudson Street",
+      "Basement"
+     ],
+     "AddressLine2": "South of Christopher Street - behind church",
+     "meetingInfo": "Mon.Step=Rotates Steps 1,2&3, Fri.= T. Last Friday. Parents with children are welcome.",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.73261979999999,
+      "lng": -74.0068029
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      20
+     ],
+     "startMinutes": [
+      0
+     ],
+     "endHours": [
+      21
+     ],
+     "endMinutes": [
+      0
+     ],
+     "endTimes": [
+      0
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.863991,
+    "lng": -73.92810999999999
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "GRUPO UN NUEVO AMANECER",
+     "locationName": "Our Lady Queen of Martyrs",
+     "AddressLine1": [
+      "91 Arden Street",
+      ""
+     ],
+     "AddressLine2": "2 blocks South of Dyckman Street, Betw. Broadway &amp; Sherman Avenue",
+     "meetingInfo": "Spanish Speaking Meetings.",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.863991,
+      "lng": -73.92810999999999
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      20
+     ],
+     "startMinutes": [
+      0
+     ],
+     "endHours": [
+      21
+     ],
+     "endMinutes": [
+      0
+     ],
+     "endTimes": [
+      0
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.72871,
+    "lng": -74.004576
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "MIDNITE",
+     "locationName": "",
+     "AddressLine1": [
+      "220 West Houston Street",
+      "2nd Floor"
+     ],
+     "AddressLine2": "Betw 6th Avenue &amp; Varick Street",
+     "meetingInfo": "Sun.12:30=Meditation, 2am Meetings=Pitch meeting with candlelight. Mon.8pm=Topic, Tues.10pm=T last Tues., Thu.10pm=Problems in Sobriety Sun.8pm=Bus.Meeting last Sun.,Sat.10pm=Anniv.Last",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.72871,
+      "lng": -74.004576
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5,
+      5,
+      5,
+      6
+     ],
+     "startHours": [
+      18,
+      20,
+      22,
+      2
+     ],
+     "startMinutes": [
+      30,
+      0,
+      0,
+      0
+     ],
+     "endHours": [
+      19,
+      21,
+      23,
+      3
+     ],
+     "endMinutes": [
+      30,
+      0,
+      0,
+      0
+     ],
+     "endTimes": [
+      30,
+      15,
+      15,
+      15
+     ],
+     "theMeetingTypes": [
+      "Unspecified",
+      "Unspecified",
+      "Unspecified",
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified",
+      "Unspecified",
+      "Unspecified",
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7355145,
+    "lng": -74.0031001
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "PERRY STREET WORKSHOP (I)",
+     "locationName": "",
+     "AddressLine1": [
+      "50 Perry Street",
+      "Ground Floor"
+     ],
+     "AddressLine2": "Betw. 7th Avenue South &amp; West 4th Street",
+     "meetingInfo": "No 8:30 or 10:15 1st Wed of month due to Bus. meeting Wed.10:15pm=No BB 1st Wed.",
+     "wheelchair": false,
+     "latLong": {
+      "lat": 40.7355145,
+      "lng": -74.0031001
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5,
+      5,
+      5
+     ],
+     "startHours": [
+      18,
+      20,
+      23
+     ],
+     "startMinutes": [
+      0,
+      30,
+      0
+     ],
+     "endHours": [
+      19,
+      22,
+      12
+     ],
+     "endMinutes": [
+      0,
+      30,
+      0
+     ],
+     "endTimes": [
+      0,
+      30,
+      0
+     ],
+     "theMeetingTypes": [
+      "Unspecified",
+      "Unspecified",
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified",
+      "Unspecified",
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7841042,
+    "lng": -73.9551888
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "PARK MADISON",
+     "locationName": "Brick Church Parish House",
+     "AddressLine1": [
+      "62 East 92nd Street",
+      "Basement"
+     ],
+     "AddressLine2": "Betw Madison &amp; Park Avenues)  10128",
+     "meetingInfo": "Tue.8pm=Topic Round Robin, Anniv Last Fri.@ 6:45 Church Closed Friday; No Meetings In July & August All meetings are non-smoking.",
+     "wheelchair": true,
+     "latLong": {
+      "lat": 40.7841042,
+      "lng": -73.9551888
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5,
+      5
+     ],
+     "startHours": [
+      18,
+      20
+     ],
+     "startMinutes": [
+      45,
+      0
+     ],
+     "endHours": [
+      19,
+      21
+     ],
+     "endMinutes": [
+      45,
+      0
+     ],
+     "endTimes": [
+      45,
+      0
+     ],
+     "theMeetingTypes": [
+      "Unspecified",
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified",
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.7607918,
+    "lng": -73.97631319999999
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "ADVENTURES IN SOBRIETY",
+     "locationName": "Saint Thomas Church",
+     "AddressLine1": [
+      "1 West 53rd Street",
+      "3rd Floor, Andrew Hall"
+     ],
+     "AddressLine2": "Betw 5th &amp; 6th Avenues",
+     "meetingInfo": "Gay & Lesbian Focus.  All are welcome.",
+     "wheelchair": true,
+     "latLong": {
+      "lat": 40.7607918,
+      "lng": -73.97631319999999
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      19
+     ],
+     "startMinutes": [
+      0
+     ],
+     "endHours": [
+      20
+     ],
+     "endMinutes": [
+      0
+     ],
+     "endTimes": [
+      0
+     ],
+     "theMeetingTypes": [
+      "O = Open meeting"
+     ],
+     "theSpecialInterest": [
+      "Gay, Lesbian and Bisexual"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.734504,
+    "lng": -73.995177
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "SAVE HER A SEAT",
+     "locationName": "First Presbyterian Church",
+     "AddressLine1": [
+      "12 West 12th Street",
+      "6th Floor-Roof Level"
+     ],
+     "AddressLine2": "Betw. 5th &amp; 6th Avenues",
+     "meetingInfo": "Tue=S Last Tue. & focus is on women with 5 years of sobriety or more.  All are welcome Fri=O Last Fri. & focus is on women with 5 years of sobriety or less.  All are welcome. Friday beginners = Trans Welcome",
+     "wheelchair": true,
+     "latLong": {
+      "lat": 40.734504,
+      "lng": -73.995177
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      18
+     ],
+     "startMinutes": [
+      30
+     ],
+     "endHours": [
+      19
+     ],
+     "endMinutes": [
+      30
+     ],
+     "endTimes": [
+      45
+     ],
+     "theMeetingTypes": [
+      "B = Beginners meeting"
+     ],
+     "theSpecialInterest": [
+      "Women"
+     ]
+    }
+   }
+  ]
+ },
+ {
+  "_id": {
+   "latLong": {
+    "lat": 40.8342672,
+    "lng": -73.94078800000001
+   }
+  },
+  "meetingGroups": [
+   {
+    "meetingGroup": {
+     "theMeeting": "PROGRESS NOT PERFECTION",
+     "locationName": "COATHA Church on the Hill Senior Center",
+     "AddressLine1": [
+      "2005 Amsterdam Avenue",
+      ""
+     ],
+     "AddressLine2": "@ 159th Street",
+     "meetingInfo": "Open Discussion 1st, 2nd, 4th,and 5th when applicable. OPEN meeting is 3rd Fridays",
+     "wheelchair": true,
+     "latLong": {
+      "lat": 40.8342672,
+      "lng": -73.94078800000001
+     }
+    },
+    "meetings": {
+     "meetingDays": [
+      5
+     ],
+     "startHours": [
+      19
+     ],
+     "startMinutes": [
+      30
+     ],
+     "endHours": [
+      20
+     ],
+     "endMinutes": [
+      30
+     ],
+     "endTimes": [
+      30
+     ],
+     "theMeetingTypes": [
+      "Unspecified"
+     ],
+     "theSpecialInterest": [
+      "Unspecified"
+     ]
+    }
+   }
+  ]
+ }
+]

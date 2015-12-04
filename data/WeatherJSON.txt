@@ -1,0 +1,190 @@
+{
+ "command": "SELECT",
+ "rowCount": 1,
+ "oid": null,
+ "rows": [
+  {
+   "timekey": 1449055200,
+   "time": "2015-12-02T11:20:20.526Z",
+   "location": "Cobble Hill, Brooklyn, New York",
+   "loclat": 40.689018,
+   "loclong": -73.996338,
+   "obstime": "2015-12-02T11:20:03.000Z",
+   "obsepoch": 1449055203,
+   "weather": "Rain",
+   "temp_f": 47.8,
+   "wind": "empty",
+   "wind_dir": "SE",
+   "wind_mph": 0,
+   "pressure_in": 29.92,
+   "visibility_mi": -100,
+   "visibility_km": -100,
+   "precip_1hr_in": 0
+  }
+ ],
+ "fields": [
+  {
+   "name": "timekey",
+   "tableID": 16427,
+   "columnID": 1,
+   "dataTypeID": 23,
+   "dataTypeSize": 4,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "time",
+   "tableID": 16427,
+   "columnID": 2,
+   "dataTypeID": 1184,
+   "dataTypeSize": 8,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "location",
+   "tableID": 16427,
+   "columnID": 3,
+   "dataTypeID": 1043,
+   "dataTypeSize": -1,
+   "dataTypeModifier": 44,
+   "format": "text"
+  },
+  {
+   "name": "loclat",
+   "tableID": 16427,
+   "columnID": 4,
+   "dataTypeID": 701,
+   "dataTypeSize": 8,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "loclong",
+   "tableID": 16427,
+   "columnID": 5,
+   "dataTypeID": 701,
+   "dataTypeSize": 8,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "obstime",
+   "tableID": 16427,
+   "columnID": 6,
+   "dataTypeID": 1184,
+   "dataTypeSize": 8,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "obsepoch",
+   "tableID": 16427,
+   "columnID": 7,
+   "dataTypeID": 23,
+   "dataTypeSize": 4,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "weather",
+   "tableID": 16427,
+   "columnID": 8,
+   "dataTypeID": 1043,
+   "dataTypeSize": -1,
+   "dataTypeModifier": 29,
+   "format": "text"
+  },
+  {
+   "name": "temp_f",
+   "tableID": 16427,
+   "columnID": 9,
+   "dataTypeID": 700,
+   "dataTypeSize": 4,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "wind",
+   "tableID": 16427,
+   "columnID": 10,
+   "dataTypeID": 1043,
+   "dataTypeSize": -1,
+   "dataTypeModifier": 24,
+   "format": "text"
+  },
+  {
+   "name": "wind_dir",
+   "tableID": 16427,
+   "columnID": 11,
+   "dataTypeID": 1043,
+   "dataTypeSize": -1,
+   "dataTypeModifier": 24,
+   "format": "text"
+  },
+  {
+   "name": "wind_mph",
+   "tableID": 16427,
+   "columnID": 12,
+   "dataTypeID": 700,
+   "dataTypeSize": 4,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "pressure_in",
+   "tableID": 16427,
+   "columnID": 13,
+   "dataTypeID": 700,
+   "dataTypeSize": 4,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "visibility_mi",
+   "tableID": 16427,
+   "columnID": 14,
+   "dataTypeID": 700,
+   "dataTypeSize": 4,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "visibility_km",
+   "tableID": 16427,
+   "columnID": 15,
+   "dataTypeID": 700,
+   "dataTypeSize": 4,
+   "dataTypeModifier": -1,
+   "format": "text"
+  },
+  {
+   "name": "precip_1hr_in",
+   "tableID": 16427,
+   "columnID": 16,
+   "dataTypeID": 700,
+   "dataTypeSize": 4,
+   "dataTypeModifier": -1,
+   "format": "text"
+  }
+ ],
+ "_parsers": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ],
+ "rowAsArray": false
+}
