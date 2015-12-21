@@ -1,0 +1,87 @@
+
+
+        function makeContent(cont) {
+            var contentHolder = '<div id="content">' +
+                '<div id="siteNotice">' +
+                '</div>';
+            for (var i = 0; i < cont.meetingGroups.length; i++) {
+                contentHolder = contentHolder + '<h1 id="firstHeading" class="firstHeading">';
+                contentHolder = contentHolder + cont.meetingGroups[i].meetingGroup.theMeeting + '</h1>';
+                if (cont.meetingGroups[i].meetingGroup.locationName.length > 0) {
+                    contentHolder = contentHolder + '<p>' + cont.meetingGroups[i].meetingGroup.locationName + '<br>';
+                }
+                contentHolder = contentHolder + cont.meetingGroups[i].meetingGroup.AddressLine1[0] + '<br>';
+                contentHolder = contentHolder + cont.meetingGroups[i].meetingGroup.AddressLine2 + '</p>';
+                contentHolder = contentHolder + '<p><b>Meetings Today: </b><br>';
+                for (var j = 0; j < cont.meetingGroups[i].meetings.meetingDays.length; j++) {
+                    var mt, si;
+                    
+                    if (cont.meetingGroups[i].meetings.theMeetingTypes[j] != 'Unspecified') {
+                        mt = cont.meetingGroups[i].meetings.theMeetingTypes[j] 
+                    }
+                    else {
+                        mt = "";
+                    }
+
+                    if (cont.meetingGroups[i].meetings.theSpecialInterest[j] != 'Unspecified') {
+                        si = cont.meetingGroups[i].meetings.theSpecialInterest[j] 
+                    }
+                    else {
+                        si = ''
+                    }
+                    var theStartTime = makeHour(cont.meetingGroups[i].meetings.startHours[j]) + ":" + makeMinute(cont.meetingGroups[i].meetings.startMinutes[j]) + " " + makeAM(cont.meetingGroups[i].meetings.startHours[j]);
+                    var theEndTime = makeHour(cont.meetingGroups[i].meetings.endHours[j]) + ":" + makeMinute(cont.meetingGroups[i].meetings.endMinutes[j]) + " " + makeAM(cont.meetingGroups[i].meetings.endHours[j]);
+
+                    contentHolder = contentHolder + theStartTime + ' &#151; ' + theEndTime + ' ';
+                    if (mt != "") {
+                     contentHolder = contentHolder +  '<br>(' + mt + ')';
+
+                    }
+                    if (si != "") {
+                     contentHolder = contentHolder +  '<br>(' + si + ')';
+
+                    }
+                    contentHolder = contentHolder +  '<br>';
+
+                }
+                contentHolder = contentHolder + '</p>';
+                contentHolder = contentHolder + '<HR><div class="iw-bottom-gradient"></div>';
+            }
+            return contentHolder;
+        }
+
+        function setMarkers(map, locations) {
+            // Add markers to the map
+            var infowindow = new google.maps.InfoWindow({
+                maxWidth: 200
+            });
+
+            for (var i = 0; i < locations.length; i++) {
+                var meeting = locations[i];
+                var myLatLng = new google.maps.LatLng(meeting._id.latLong.lat, meeting._id.latLong.lng);
+
+                var contentWindow = makeContent(meetings[i]);
+
+
+                var marker = new google.maps.Marker({
+                    position: myLatLng,
+                    map: map,
+                    title: "Click for meeting info",
+                    content: contentWindow,
+                });
+
+                google.maps.event.addListener(marker, 'click', function() {
+                    infowindow.setContent(this.content);
+                    infowindow.open(map, this);
+                });
+            }
+        }
+        google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+</head>
+
+<body>
+    <div id="map-canvas"></div>
+</body>
+
+</html>

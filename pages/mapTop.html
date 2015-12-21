@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>AA Meetings in Manhattan</title>
+    <style>
+        html,
+        body,
+        #map-canvas {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+        
+        #firstHeading {
+            font-size: 100%;
+        }
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true"></script>
+    <script>
+        var latNow = 40.736354;
+        var longNow = -73.999175;
+function makeAM (theHour) {
+    var AMPM = "AM";
+    if (theHour >= 12) {
+        AMPM = "PM";
+    }
+    return AMPM;
+    
+}
+function makeMinute (theMinute) {
+    if (theMinute < 10) {
+        theMinute = "0" + theMinute;
+    }
+    return theMinute;
+}
+
+function makeHour (theHour) {
+    if (theHour > 12) {
+        theHour -= 12;
+    }
+    if (theHour == 0) {
+        theHour = 12;
+    }
+    return theHour;
+}
+
+        function initialize() {
+            var mapOptions = {
+                zoom: 13,
+                center: new google.maps.LatLng(latNow, longNow)
+            }
+            var map = new google.maps.Map(document.getElementById('map-canvas'),
+                mapOptions);
+
+            setMarkers(map, meetings);
+        }
+
+     
+       
